@@ -1,0 +1,1977 @@
+,inputs,preds,golds
+0,modern2poem: 在 我 东 晋 鼎 盛 日 ，,generated:,"在 我 中 晋 ，
+"
+1,modern2poem: 没 有 时 间 安 居 休 息 ， 都 是 为 了 和 猃 狁 打 仗 。,generated:,"不 遑 启 居 ， 猃 狁 之 故 。
+"
+2,modern2poem: 瞻 望 不 见 人 影 ， 泪 流 纷 如 雨 降 。,generated:,"瞻 望 弗 及 ， 泣 涕 如 雨 。
+"
+3,modern2poem: 问 我 为 何 能 如 此 ， 只 要 心 志 高 远 ， 自 然 就 会 觉 得 所 处 地 方 僻 静 了 。,generated:,"问 君 何 能 尔 ？ 心 远 地 自 偏 。
+"
+4,modern2poem: 一 行 秋 雁 高 高 地 掠 过 了 星 空 ， 千 家 万 户 传 来 了 捣 衣 的 声 响 。,generated:,"星 河 秋 一 雁 ， 砧 杵 夜 千 家 。
+"
+5,modern2poem: 连 日 雨 后 ， 树 木 稀 疏 的 村 落 里 炊 烟 冉 冉 升 起 。 烧 好 的 粗 茶 淡 饭 是 送 给 村 东 耕 耘 的 人 。,generated:,"积 雨 空 林 烟 火 迟 ， 蒸 藜 炊 黍 饷 东 菑 。
+"
+6,modern2poem: 将 士 何 须 哀 怨 那 柳 树 不 发 芽 ，,generated:,"羌 笛 何 须 怨 杨 柳 ，
+"
+7,modern2poem: 我 的 头 发 刚 刚 盖 过 额 头 ， 便 同 你 一 起 在 门 前 做 折 花 的 游 戏 。,generated:,"妾 发 初 覆 额 ， 折 花 门 前 剧 。
+"
+8,modern2poem: 织 布 机 札 札 不 停 地 响 个 不 停 。,generated:,"札 札 弄 机 杼 。
+"
+9,modern2poem: 古 木 参 天 却 没 有 人 行 路 径 ， 深 山 里 何 处 传 来 古 寺 鸣 钟 。,generated:,"古 木 无 人 径 ， 深 山 何 处 钟 。
+"
+10,modern2poem: 辜 负 你 频 繁 地 来 把 我 慰 问 。,generated:,"愧 君 相 见 频 。
+"
+11,modern2poem: 唉 呀 ， 我 那 几 个 情 投 意 合 的 伙 伴 ， 怎 么 能 到 年 老 ， 还 不 再 返 回 故 乡 ？,generated:,"嗟 哉 吾 党 二 三 子 ， 安 得 至 老 不 更 归 。
+"
+12,modern2poem: 是 君 子 的 好 配 偶 。,generated:,"君 子 好 逑 。
+"
+13,modern2poem: 什 么 时 候 能 够 再 举 杯 共 饮 ，,generated:,"几 时 杯 重 把 ，
+"
+14,modern2poem: 此 次 出 征 为 国 效 力 ， 本 来 就 打 算 马 革 裹 尸 ， 没 有 准 备 活 着 回 来 。,generated:,"古 来 征 战 几 人 回 ？
+"
+15,modern2poem: 便 随 性 写 成 诗 一 首 来 记 录 感 想 ，,generated:,"聊 书 所 怀 ，
+"
+16,modern2poem: 云 梦 大 泽 水 气 蒸 腾 白 白 茫 茫 ， 波 涛 汹 涌 似 乎 把 岳 阳 城 撼 动 。,generated:,"气 蒸 云 梦 泽 ， 波 撼 岳 阳 城 。
+"
+17,modern2poem: 但 苍 翠 的 山 色 却 浓 得 仿 佛 就 要 润 湿 了 人 的 衣 裳 一 样 。,generated:,"空 翠 湿 人 衣 。
+"
+18,modern2poem: 看 到 这 种 情 景 我 很 伤 心 ，,generated:读 此 情 我 心 。,"感 此 伤 妾 心 ，
+"
+19,modern2poem: 多 少 画 家 画 出 的 都 与 原 貌 不 同 。,generated:,"画 工 如 山 貌 不 同 。
+"
+20,modern2poem: 秋 风 吹 送 捣 衣 声 声 ， 家 家 怀 念 戍 边 之 人 。,generated:,"秋 风 吹 不 尽 ， 总 是 玉 关 情 。
+"
+21,modern2poem: 色 彩 鲜 艳 红 似 火 。,generated:,"灼 灼 其 华 。
+"
+22,modern2poem: 长 大 成 人 后 竟 然 意 外 相 逢 。,generated:,"长 大 一 相 逢 。
+"
+23,modern2poem: 但 是 这 些 又 怎 比 得 上 青 山 绿 水 的 道 路 上 ， 迎 面 飞 舞 而 来 的 花 瓣 呢 。,generated:,"何 如 山 水 路 ， 对 面 即 飞 花 。
+"
+24,modern2poem: 左 臂 挂 着 一 个 破 筐 。,generated:,"左 臂 悬 敝 筐 。
+"
+25,modern2poem: 定 要 登 上 泰 山 顶 峰 ， 俯 瞰 群 山 ， 豪 情 满 怀 。,generated:,"会 当 凌 绝 顶 ， 一 览 众 山 小 。
+"
+26,modern2poem: 孩 子 提 壶 盛 满 水 汤 。,generated:,"童 稚 携 壶 浆 ，
+"
+27,modern2poem: 时 届 暮 春 白 雪 飘 飞 归 来 塞 外 ，,generated:,"三 春 白 雪 归 青 冢 ，
+"
+28,modern2poem: 天 色 阴 沉 ， 看 样 子 晚 上 即 将 要 下 雪 ， 能 否 留 下 与 我 共 饮 一 杯 ？,generated:,"晚 来 天 欲 雪 ，
+"
+29,modern2poem: 我 给 你 们 唱 一 首 歌 ，,generated:,"与 君 歌 一 曲 ，
+"
+30,modern2poem: 人 生 中 多 少 次 伤 怀 往 事 ， 山 形 依 然 不 变 靠 着 寒 流 。,generated:,"人 世 几 回 伤 往 事 ， 山 形 依 旧 枕 寒 流 。
+"
+31,modern2poem: 何 必 去 寻 找 世 外 的 仙 境 ，,generated:,"何 用 别 寻 方 外 去 ，
+"
+32,modern2poem: 我 担 忧 什 么 呢 ！,generated:,"吾 何 患 焉 ！
+"
+33,modern2poem: 希 望 能 随 着 风 一 直 陪 着 你 到 夜 郎 以 西 。,generated:,"随 风 直 到 夜 郎 西 。
+"
+34,modern2poem: 放 牛 的 孩 子 横 坐 在 牛 背 上 ， 随 意 地 用 短 笛 吹 奏 着 不 成 调 的 的 乐 曲 。,generated:,"牧 童 归 去 横 牛 背 ， 短 笛 无 腔 信 口 吹 。
+"
+35,modern2poem: 欲 走 还 留 之 间 ，,generated:,"请 君 试 问 东 流 水 ，
+"
+36,modern2poem: 老 朋 友 向 我 频 频 挥 手 ， 告 别 了 黄 鹤 楼 ， 在 这 柳 絮 如 烟 、 繁 花 似 锦 的 阳 春 三 月 去 扬 州 远 游 。,generated:,"故 人 西 辞 黄 鹤 楼 ， 烟 花 三 月 下 扬 州 。
+"
+37,modern2poem: 胡 琴 琵 琶 羌 笛 合 奏 来 助 兴 。,generated:,"胡 琴 琵 琶 与 羌 笛 。
+"
+38,modern2poem: 天 地 之 间 有 一 股 堂 堂 正 气 ， 它 赋 予 万 物 而 变 化 为 各 种 体 形 。,generated:,"天 地 有 正 气 ， 杂 然 赋 流 形 。
+"
+39,modern2poem: 白 雪 似 的 杨 花 飘 落 覆 盖 浮 萍 ，,generated:,"杨 花 雪 落 覆 白 苹 ，
+"
+40,modern2poem: 我 和 从 弟 在 南 斋 高 卧 的 时 候 ， 掀 开 窗 帘 玩 赏 那 初 升 的 玉 兔 。,generated:,"高 卧 南 斋 时 ， 开 帷 月 初 吐 。
+"
+41,modern2poem: 日 暮 时 投 宿 石 壕 村 ， 夜 里 有 差 役 来 强 征 兵 。,generated:,"暮 投 石 壕 村 ， 有 吏 夜 捉 人 。
+"
+42,modern2poem: 真 诚 地 奉 劝 我 的 朋 友 再 干 一 杯 美 酒 ，,generated:,"劝 君 更 尽 一 杯 酒 ，
+"
+43,modern2poem: 听 说 国 家 边 境 军 情 紧 急 ， 侵 略 者 一 次 又 一 次 进 犯 内 地 。,generated:,"边 城 多 警 急 ， 虏 骑 数 迁 移 。
+"
+44,modern2poem: 建 国 与 吴 魏 三 分 天 下 成 鼎 足 ，,generated:,"势 分 三 足 鼎 ，
+"
+45,modern2poem: 中 央 主 峰 把 终 南 东 西 隔 开 ，,generated:,"分 野 中 峰 变 ，
+"
+46,modern2poem: 向 西 出 了 阳 关 就 难 以 遇 到 故 旧 亲 人 。,generated:,"西 出 阳 关 无 故 人 。
+"
+47,modern2poem: 争 着 将 往 日 的 情 谊 诉 说 。,generated:,"心 念 旧 恩 。
+"
+48,modern2poem: 感 伤 南 朝 往 事 不 胜 惆 怅 ， 只 有 长 江 奔 流 从 古 到 今 。,generated:,"惆 怅 南 朝 事 ， 长 江 独 至 今 。
+"
+49,modern2poem: 水 面 的 浮 萍 上 留 下 了 一 条 船 儿 划 过 的 痕 迹 。,generated:,"浮 萍 一 道 开 。
+"
+50,modern2poem: 用 我 的 一 种 气 可 以 敌 过 那 七 种 气 ，,generated:,"以 一 敌 七 ，
+"
+51,modern2poem: 一 座 高 桥 隔 着 云 烟 出 现 ， 在 岩 石 的 西 畔 询 问 渔 船 。,generated:,"隐 隐 飞 桥 隔 野 烟 ， 石 矶 西 畔 问 渔 船 。
+"
+52,modern2poem: 轮 台 城 头 夜 里 吹 起 号 角 ，,generated:,"轮 台 城 头 夜 吹 角 ，
+"
+53,modern2poem: 眼 下 我 心 情 不 佳 是 思 念 岳 阳 ，,generated:,"今 我 不 乐 思 岳 阳 ，
+"
+54,modern2poem: 竹 林 喧 响 知 是 洗 衣 姑 娘 归 来 ， 莲 叶 轻 摇 想 是 上 游 荡 下 轻 舟 。,generated:,"竹 喧 归 浣 女 ， 莲 动 下 渔 舟 。
+"
+55,modern2poem: 将 帅 们 坐 在 车 上 ， 士 兵 们 也 靠 它 隐 蔽 遮 挡 。,generated:,"君 子 所 依 ， 小 人 所 腓 。
+"
+56,modern2poem: 参 差 不 齐 的 荇 菜 ，,generated:,"参 差 荇 菜 ，
+"
+57,modern2poem: 吐 蕃 族 至 今 牧 马 只 敢 远 望 ，,generated:,"至 今 窥 牧 马 ，
+"
+58,modern2poem: 不 然 就 会 步 陈 后 主 亡 国 后 尘 。,generated:,"景 阳 宫 井 又 何 人 。
+"
+59,modern2poem: 老 夫 不 曾 为 客 扫 过 花 径 ， 今 天 才 为 您 扫 ， 这 柴 门 不 曾 为 客 开 过 ， 今 天 为 您 打 开 。,generated:,"花 径 不 曾 缘 客 扫 ， 蓬 门 今 始 为 君 开 。
+"
+60,modern2poem: 当 你 怀 念 家 园 盼 归 之 日 ， 早 就 思 念 你 而 愁 肠 百 结 。,generated:,"当 君 怀 归 日 ， 是 妾 断 肠 时 。
+"
+61,modern2poem: 年 年 战 死 的 尸 骨 埋 葬 于 荒 野 ，,generated:,"年 年 战 骨 埋 荒 外 ，
+"
+62,modern2poem: 喝 醉 酒 后 还 要 和 着 金 甲 跳 舞 ，,generated:,"醉 和 金 甲 舞 ，
+"
+63,modern2poem: 君 王 思 念 贵 妃 的 情 意 令 他 感 动 ， 于 是 道 士 尽 力 去 寻 找 贵 妃 的 魂 魄 。,generated:,"为 感 君 王 辗 转 思 ， 遂 教 方 士 殷 勤 觅 。
+"
+64,modern2poem: 你 北 方 的 住 处 像 春 天 般 遥 远 ；,generated:,"北 斗 兼 春 远 ，
+"
+65,modern2poem: 感 伤 南 朝 往 事 不 胜 惆 怅 ，,generated:,"惆 怅 南 朝 事 ，
+"
+66,modern2poem: 织 女 正 摆 动 柔 长 洁 白 的 双 手 ，,generated:,"纤 纤 擢 素 手 ，
+"
+67,modern2poem: 一 行 秋 雁 高 高 地 掠 过 了 星 空 ，,generated:,"星 河 秋 一 雁 ，
+"
+68,modern2poem: 长 信 宫 中 惟 有 秋 月 尚 明 ， 昭 阳 殿 下 响 起 捣 衣 声 声 。,generated:,"长 信 宫 中 秋 月 明 ， 昭 阳 殿 下 捣 衣 声 。
+"
+69,modern2poem: 荒 诞 之 事 却 为 人 们 追 逐 。,generated:,"妄 迹 世 所 逐 。
+"
+70,modern2poem: 真 可 怜 呵 那 无 定 河 边 成 堆 的 白 骨 ， 还 是 少 妇 们 梦 中 相 依 相 伴 的 丈 夫 。,generated:,"可 怜 无 定 河 边 骨 ， 犹 是 春 闺 梦 里 人 ！
+"
+71,modern2poem: 万 里 晴 空 ， 一 只 鹤 凌 云 飞 起 ， 就 引 发 我 的 诗 兴 到 了 蓝 天 上 了 。,generated:,"晴 空 一 鹤 排 云 上 ， 便 引 诗 情 到 碧 霄 。
+"
+72,modern2poem: 竹 林 喧 响 知 是 洗 衣 姑 娘 归 来 ，,generated:,"竹 喧 归 浣 女 ，
+"
+73,modern2poem: 停 住 马 饮 酒 询 问 被 贬 的 去 处 。,generated:,"驻 马 衔 杯 问 谪 居 。
+"
+74,modern2poem: 他 不 知 道 怎 么 掩 藏 踪 迹 ， 水 面 的 浮 萍 上 留 下 了 一 条 船 儿 划 过 的 痕 迹 。,generated:,"不 解 藏 踪 迹 ， 浮 萍 一 道 开 。
+"
+75,modern2poem: 经 过 了 近 十 年 的 战 乱 流 离 ， 长 大 成 人 后 竟 然 意 外 相 逢 。,generated:,"十 年 离 乱 后 ， 长 大 一 相 逢 。
+"
+76,modern2poem: 只 恨 春 宵 太 短 一 觉 就 睡 到 太 阳 高 高 升 起 ，,generated:,"春 宵 苦 短 日 高 起 ，
+"
+77,modern2poem: 我 虽 然 胸 怀 匡 国 之 志 ， 也 有 郭 元 振 《 宝 剑 篇 》 那 样 充 满 豪 气 的 诗 篇 ， 但 却 不 遇 明 主 ， 长 期 羁 旅 在 外 虚 度 华 年 。,generated:,"凄 凉 宝 剑 篇 ， 羁 泊 欲 穷 年 。
+"
+78,modern2poem: 刚 刚 反 复 吟 诵 你 送 我 的 佳 句 ， 不 觉 乌 鸦 呱 呱 啼 叫 天 已 渐 亮 。,generated:,"向 来 吟 秀 句 ， 不 觉 已 鸣 鸦 。
+"
+79,modern2poem: 杨 家 门 户 生 光 彩 令 人 羡 慕 又 向 往 。,generated:,"可 怜 光 彩 生 门 户 。
+"
+80,modern2poem: 曾 经 为 我 设 计 挖 掘 石 鼓 坑 窝 。,generated:,"为 我 度 量 掘 臼 科 。
+"
+81,modern2poem: 奏 起 琴 瑟 来 亲 近 她 。,generated:,"琴 瑟 友 之 。
+"
+82,modern2poem: 下 看 飞 鸟 屈 指 可 数 ，,generated:,"下 窥 指 高 鸟 ，
+"
+83,modern2poem: 难 道 丹 桔 就 不 成 阴 ？,generated:,"此 木 岂 无 阴 ？
+"
+84,modern2poem: 老 牛 和 骏 马 被 关 在 一 起 共 用 一 槽 ，,generated:,"牛 骥 同 一 皂 ，
+"
+85,modern2poem: 只 有 狂 雷 炸 响 般 的 巨 大 力 量 才 能 使 中 国 大 地 发 出 勃 勃 生 机 ，,generated:,"九 州 生 气 恃 风 雷 ，
+"
+86,modern2poem: 傍 晚 辕 门 前 大 雪 落 个 不 停 ，,generated:,"纷 纷 暮 雪 下 辕 门 ，
+"
+87,modern2poem: 彼 此 久 别 重 逢 谈 心 宴 饮 ，,generated:,"契 阔 谈 讌 ，
+"
+88,modern2poem: 真 诚 地 奉 劝 我 的 朋 友 再 干 一 杯 美 酒 ， 向 西 出 了 阳 关 就 难 以 遇 到 故 旧 亲 人 。,generated:,"劝 君 更 尽 一 杯 酒 ， 西 出 阳 关 无 故 人 。
+"
+89,modern2poem: 新 年 来 临 思 乡 之 心 更 切 ， 独 立 天 边 不 禁 热 泪 横 流 。,generated:,"乡 心 新 岁 切 ， 天 畔 独 潸 然 。
+"
+90,modern2poem: 为 国 家 解 危 难 奋 勇 献 身 ，,generated:,"捐 躯 赴 国 难 ，
+"
+91,modern2poem: 君 臣 共 同 享 受 着 礼 仪 和 祭 礼 。,generated:,"一 体 君 臣 祭 祀 同 。
+"
+92,modern2poem: 它 赋 予 万 物 而 变 化 为 各 种 体 形 。,"generated:诗 赋 万, 变,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,","杂 然 赋 流 形 。
+"
+93,modern2poem: 豆 苗 采 了 又 采 ， 薇 菜 的 茎 叶 变 老 了 。,generated:,"采 薇 采 薇 ， 薇 亦 刚 止 。
+"
+94,modern2poem: 佛 经 真 谛 世 人 并 无 领 悟 ，,generated:,"真 源 了 无 取 ，
+"
+95,modern2poem: 微 风 吹 拂 着 江 岸 的 细 草 ， 那 立 着 高 高 桅 杆 的 小 船 在 夜 里 孤 零 地 停 泊 着 。,generated:,"细 草 微 风 岸 ， 危 樯 独 夜 舟 。
+"
+96,modern2poem: 昭 阳 殿 里 的 姻 缘 早 已 隔 断 ， 蓬 莱 宫 中 的 孤 寂 时 间 还 很 漫 长 。,generated:,"昭 阳 殿 里 恩 爱 绝 ， 蓬 莱 宫 中 日 月 长 。
+"
+97,modern2poem: 丁 大 约 定 今 晚 来 寺 住 宿 ，,generated:,"之 子 期 宿 来 ，
+"
+98,modern2poem: 他 的 琴 声 一 响 万 物 寂 静 ，,generated:,"一 声 已 动 物 皆 静 ，
+"
+99,modern2poem: 山 与 天 相 接 的 地 方 缭 绕 着 阵 阵 云 烟 ， 从 竹 林 的 缝 隙 里 看 洒 落 下 余 晖 的 夕 阳 。,generated:,"山 际 见 来 烟 ， 竹 中 窥 落 日 。
+"
+100,modern2poem: 让 我 们 共 同 在 这 烛 光 下 叙 谈 。,generated:,"共 此 灯 烛 光 。
+"
+101,modern2poem: 古 庙 里 杉 松 树 上 水 鹤 做 了 巢 ，,generated:,"古 庙 杉 松 巢 水 鹤 ，
+"
+102,modern2poem: 里 面 有 虢 国 和 秦 国 二 位 夫 人 。,generated:,"赐 名 大 国 虢 与 秦 。
+"
+103,modern2poem: 阵 阵 霉 味 逼 人 ，,generated:,"陈 陈 逼 人 ，
+"
+104,modern2poem: 车 辆 隆 隆 响 ， 战 马 萧 萧 鸣 ， 出 征 士 兵 弓 箭 各 自 佩 在 腰 。,generated:,"车 辚 辚 ， 马 萧 萧 ， 行 人 弓 箭 各 在 腰 。
+"
+105,modern2poem: 井 畔 梧 桐 在 秋 夜 的 风 中 抖 动 ，,generated:,"清 秋 幕 府 井 梧 寒 ，
+"
+106,modern2poem: 心 明 无 须 恃 荣 宠 。,generated:,"临 宠 不 忒 。
+"
+107,modern2poem: 秋 日 青 枫 江 上 孤 帆 远 远 飘 去 ，,generated:,"青 枫 江 上 秋 帆 远 ，
+"
+108,modern2poem: 夜 里 吹 来 暖 暖 南 风 ，,generated:,"夜 来 南 风 起 ，
+"
+109,modern2poem: 为 什 么 要 隐 居 清 高 自 比 云 月 ？,generated:,"何 用 孤 高 比 云 月 ？
+"
+110,modern2poem: 流 放 岭 南 与 亲 人 断 绝 了 音 信 ， 熬 过 了 冬 天 又 经 历 一 个 新 春 。,generated:,"岭 外 音 书 断 ， 经 冬 复 历 春 。
+"
+111,modern2poem: 她 说 ： “ 我 是 公 孙 大 娘 的 学 生 ” 。,generated:诗 曰 我 是 公 孙 大 娘 。,"曰 ： “ 余 公 孙 大 娘 弟 子 也 。
+"
+112,modern2poem: 急 取 灯 火 瞧 仔 细 。,generated:,"遽 而 求 火 。
+"
+113,modern2poem: 人 生 中 多 少 次 伤 怀 往 事 ，,generated:,"人 世 几 回 伤 往 事 ，
+"
+114,modern2poem: 他 们 再 不 敢 南 来 越 过 临 洮 。,generated:,"不 敢 过 临 洮 。
+"
+115,modern2poem: 生 时 应 当 做 人 中 豪 杰 ， 死 后 也 要 做 鬼 中 英 雄 。,generated:,"生 当 作 人 杰 ， 死 亦 为 鬼 雄 。
+"
+116,modern2poem: 借 问 当 地 之 人 何 处 买 酒 浇 愁 ？,generated:,"借 问 酒 家 何 处 有 ，
+"
+117,modern2poem: 我 在 南 山 下 种 植 豆 子 ，,generated:,"种 豆 南 山 下 ，
+"
+118,modern2poem: 春 风 吹 开 桃 李 花 物 是 人 非 不 胜 悲 ， 秋 雨 滴 落 梧 桐 叶 场 面 寂 寞 更 惨 凄 。,generated:,"春 风 桃 李 花 开 日 ， 秋 雨 梧 桐 叶 落 时 。
+"
+119,modern2poem: 山 月 高 照 正 好 弄 弦 弹 琴 。,generated:,"山 月 照 弹 琴 。
+"
+120,modern2poem: 在 世 上 活 着 贵 在 韬 光 养 晦 ，,generated:,"含 光 混 世 贵 无 名 ，
+"
+121,modern2poem: 鸿 鹄 已 高 飞 远 空 在 日 月 之 间 ， 青 枫 树 叶 已 变 红 秋 霜 已 下 降 。,generated:,"鸿 飞 冥 冥 日 月 白 ， 青 枫 叶 赤 天 雨 霜 。
+"
+122,modern2poem: 各 自 畅 饮 悲 欢 。,generated:,"别 意 与 之 谁 短 长 。
+"
+123,modern2poem: 有 人 在 屋 檐 下 烧 柴 火 做 饭 ，,generated:,"檐 阴 薪 爨 ，
+"
+124,modern2poem: 山 与 天 相 接 的 地 方 缭 绕 着 阵 阵 云 烟 ，,generated:,"山 际 见 来 烟 ，
+"
+125,modern2poem: 树 皮 洁 白 润 滑 树 干 有 四 十 围 ，,generated:,"霜 皮 溜 雨 四 十 围 ，
+"
+126,modern2poem: 黄 云 海 戍 迷 离 不 见 。,generated:,"黄 云 海 戍 迷 。
+"
+127,modern2poem: 这 里 就 是 历 代 征 战 之 地 ，,generated:,"由 来 征 战 地 ，
+"
+128,modern2poem: 湖 中 的 蛟 龙 出 没 猩 鼯 哀 号 。,generated:,"蛟 龙 出 没 猩 鼯 号 。
+"
+129,modern2poem: 山 形 依 然 不 变 靠 着 寒 流 。,generated:,"山 形 依 旧 枕 寒 流 。
+"
+130,modern2poem: 北 归 大 雁 正 翱 翔 云 天 。,generated:,"归 雁 入 胡 天 。
+"
+131,modern2poem: 可 惜 的 是 春 天 已 过 了 一 半 自 己 却 还 不 能 回 家 。,generated:,"可 怜 春 半 不 还 家 。
+"
+132,modern2poem: 黄 昏 时 来 到 空 潭 隐 蔽 之 地 ，,generated:,"薄 暮 空 潭 曲 ，
+"
+133,modern2poem: 望 你 孝 敬 长 辈 遵 守 妇 道 ，,generated:,"孝 恭 遵 妇 道 ，
+"
+134,modern2poem: 在 山 林 中 隐 居 了 二 十 年 。,generated:,"山 林 二 十 年 。
+"
+135,modern2poem: 周 朝 政 治 衰 败 全 国 动 荡 不 安 ，,generated:,"周 纲 凌 迟 四 海 沸 ，
+"
+136,modern2poem: 那 黄 河 之 水 犹 如 从 天 上 倾 泻 而 来 ，,generated:,"黄 河 之 水 天 上 来 ，
+"
+137,modern2poem: 近 处 松 州 一 带 也 还 驻 扎 着 朝 廷 的 军 队 。,generated:,"松 州 犹 驻 殿 前 军 。
+"
+138,modern2poem: 从 山 下 走 上 去 足 有 三 十 里 。,generated:,"直 上 三 十 里 。
+"
+139,modern2poem: 丞 相 的 祠 庙 就 在 先 王 庙 临 近 ，,generated:,"武 侯 祠 堂 常 邻 近 ，
+"
+140,modern2poem: 半 山 腰 喷 泄 云 雾 迷 迷 茫 茫 ， 虽 然 有 绝 顶 谁 能 登 上 顶 峰 。,generated:,"喷 云 泄 雾 藏 半 腹 ， 虽 有 绝 顶 谁 能 穷 ？
+"
+141,modern2poem: 座 旁 的 听 者 个 个 感 慨 叹 息 ，,generated:,"傍 邻 闻 者 多 叹 息 ，
+"
+142,modern2poem: 当 你 怀 念 家 园 盼 归 之 日 ，,generated:,"当 君 怀 归 日 ，
+"
+143,modern2poem: 新 雨 中 草 色 多 么 青 翠 葱 绿 ， 晚 风 将 松 涛 声 送 进 窗 户 里 。,generated:,"草 色 新 雨 中 ， 松 声 晚 窗 里 。
+"
+144,modern2poem: 听 说 国 家 边 境 军 情 紧 急 ，,generated:,"边 城 多 警 急 ，
+"
+145,modern2poem: 还 是 少 妇 们 梦 中 相 依 相 伴 的 丈 夫 。,generated:,"犹 是 春 闺 梦 里 人 ！
+"
+146,modern2poem: 跋 涉 在 道 路 崎 岖 又 遥 远 的 三 巴 路 上 ，,generated:,"迢 递 三 巴 路 ，
+"
+147,modern2poem: 村 民 们 衣 冠 简 朴 古 代 风 气 仍 然 保 存 。,generated:,"衣 冠 简 朴 古 风 存 。
+"
+148,modern2poem: 大 厦 如 若 倾 倒 要 有 梁 栋 支 撑 ，,generated:,"大 厦 如 倾 要 梁 栋 ，
+"
+149,modern2poem: 西 起 荆 门 往 东 与 九 江 相 通 。,generated:,"荆 门 九 派 通 。
+"
+150,modern2poem: 帝 尧 之 世 称 陶 唐 。,generated:,"爰 自 陶 唐 。
+"
+151,modern2poem: 但 是 这 些 又 怎 比 得 上 青 山 绿 水 的 道 路 上 ，,generated:,"何 如 山 水 路 ，
+"
+152,modern2poem: 近 处 篱 笆 边 都 种 上 了 菊 花 ， 秋 天 到 了 却 尚 未 见 它 开 放 。,generated:,"近 种 篱 边 菊 ， 秋 来 未 著 花 。
+"
+153,modern2poem: 鲜 红 的 嘴 唇 绰 约 的 舞 姿 ， 都 已 逝 去 ， 到 了 晚 年 ， 有 弟 子 把 艺 术 继 承 发 扬 。,generated:,"绛 唇 珠 袖 两 寂 寞 ， 晚 有 弟 子 传 芬 芳 。
+"
+154,modern2poem: 潘 岳 悼 念 亡 妻 只 是 徒 然 悲 鸣 。,generated:,"潘 岳 悼 亡 犹 费 词 。
+"
+155,modern2poem: 阳 光 照 耀 下 的 汉 阳 树 木 清 晰 可 见 ， 鹦 鹉 洲 上 有 一 片 碧 绿 的 芳 草 覆 盖 。,generated:,"晴 川 历 历 汉 阳 树 ， 芳 草 萋 萋 鹦 鹉 洲 。
+"
+156,modern2poem: 秋 日 青 枫 江 上 孤 帆 远 远 飘 去 ， 白 帝 城 边 黄 叶 飘 零 古 木 稀 疏 。,generated:,"青 枫 江 上 秋 帆 远 ， 白 帝 城 边 古 木 疏 。
+"
+157,modern2poem: 我 家 祖 先 甚 遥 远 ， 帝 尧 之 世 称 陶 唐 。,generated:,"悠 悠 我 祖 ， 爰 自 陶 唐 。
+"
+158,modern2poem: 登 高 远 望 天 地 间 壮 观 景 象 ，,generated:,"登 高 壮 观 天 地 间 ，
+"
+159,modern2poem: 武 皇 开 拓 边 疆 的 念 头 还 没 停 止 。,generated:,"武 皇 开 边 意 未 已 。
+"
+160,modern2poem: 江 上 的 月 色 分 外 清 明 ， 胡 雁 从 夜 空 飞 掠 而 过 。,generated:,"江 上 月 明 胡 雁 过 ，
+"
+161,modern2poem: 游 子 像 一 片 白 云 缓 缓 地 离 去 ， 只 剩 下 思 妇 站 在 离 别 的 青 枫 浦 不 胜 忧 愁 。,generated:,"白 云 一 片 去 悠 悠 ， 青 枫 浦 上 不 胜 愁 。
+"
+162,modern2poem: 明 亮 的 月 光 洒 在 床 前 的 窗 户 纸 上 ，,generated:,"床 前 明 月 光 ，
+"
+163,modern2poem: 都 把 旧 的 桃 符 取 下 换 上 新 的 桃 符 。,generated:,"总 把 新 桃 换 旧 符 。
+"
+164,modern2poem: 世 事 渺 茫 自 我 的 命 运 怎 能 预 料 ， 只 有 黯 然 的 春 愁 让 我 孤 枕 难 眠 。,generated:,"世 事 茫 茫 难 自 料 ， 春 愁 黯 黯 独 成 眠 。
+"
+165,modern2poem: 听 说 你 怀 有 二 心 ，,generated:,"闻 君 有 两 意 ，
+"
+166,modern2poem: 后 来 却 成 了 吴 王 宫 里 的 爱 妃 。,generated:,"暮 作 吴 宫 妃 。
+"
+167,modern2poem: 上 战 场 面 对 着 刀 山 剑 树 ， 从 不 将 安 和 危 放 在 心 里 。,generated:,"弃 身 锋 刃 端 ， 性 命 安 可 怀 ？
+"
+168,modern2poem: 历 世 不 绝 显 荣 光 。,generated:,"历 世 重 光 。
+"
+169,modern2poem: 周 宣 王 发 愤 起 兵 挥 起 了 天 戈 。,generated:,"宣 王 愤 起 挥 天 戈 。
+"
+170,modern2poem: 皇 恩 浩 荡 如 果 准 许 留 在 太 学 ，,generated:,"圣 恩 若 许 留 太 学 ，
+"
+171,modern2poem: 怎 堪 忍 受 正 当 玄 鬓 盛 年 的 好 时 光 ， 独 自 吟 诵 白 头 吟 这 么 哀 怨 的 诗 行 。,generated:,"不 堪 玄 鬓 影 ， 来 对 白 头 吟 。
+"
+172,modern2poem: 功 绩 告 成 之 后 不 自 行 隐 退 都 死 于 非 命 。,generated:,"功 成 不 退 皆 殒 身 。
+"
+173,modern2poem: 还 像 九 只 雏 凤 鸣 叫 啾 啾 啼 。,generated:,"九 雏 鸣 凤 乱 啾 啾 。
+"
+174,modern2poem: 漫 漫 长 夜 中 泛 流 着 琴 瑟 的 清 音 ；,generated:,"遥 夜 泛 清 瑟 ，
+"
+175,modern2poem: 我 早 年 遇 到 了 太 平 世 道 ， 在 山 林 中 隐 居 了 二 十 年 。,generated:,"昔 岁 逢 太 平 ， 山 林 二 十 年 。
+"
+176,modern2poem: 自 惭 这 样 长 久 地 孤 独 沉 沦 ， 辜 负 你 频 繁 地 来 把 我 慰 问 。,generated:,"以 我 独 沉 久 ， 愧 君 相 见 频 。
+"
+177,modern2poem: 从 前 有 个 漂 亮 女 人 ， 名 叫 公 孙 大 娘 ， 每 当 她 跳 起 剑 舞 来 ， 就 要 轰 动 四 方 。,generated:,"昔 有 佳 人 公 孙 氏 ， 一 舞 剑 器 动 四 方 。
+"
+178,modern2poem: 其 中 有 几 位 都 是 后 妃 的 亲 戚 ，,generated:,"就 中 云 幕 椒 房 亲 ，
+"
+179,modern2poem: 自 己 到 处 漂 泊 像 什 么 呢 ？,generated:,"飘 飘 何 所 似 ，
+"
+180,modern2poem: 现 在 已 经 有 人 知 道 那 儿 了 。,generated:,"时 人 已 知 处 。
+"
+181,modern2poem: 秀 美 的 庐 山 挺 拔 在 南 斗 旁 ，,generated:,"庐 山 秀 出 南 斗 傍 ，
+"
+182,modern2poem: 有 的 人 十 五 岁 到 黄 河 以 北 去 戍 守 ，,generated:,"或 从 十 五 北 防 河 ，
+"
+183,modern2poem: 江 流 曲 折 就 像 九 转 的 回 肠 。,generated:,"江 流 曲 似 九 回 肠 。
+"
+184,modern2poem: 兄 弟 姐 妹 都 因 她 列 土 封 侯 ，,generated:,"姊 妹 弟 兄 皆 列 土 ，
+"
+185,modern2poem: 藤 叶 茂 密 又 繁 盛 。,generated:,"维 叶 萋 萋 。
+"
+186,modern2poem: 自 己 到 处 漂 泊 像 什 么 呢 ？ 就 像 天 地 间 的 一 只 孤 零 零 的 沙 鸥 。,generated:,"飘 飘 何 所 似 ， 天 地 一 沙 鸥 。
+"
+187,modern2poem: 羯 胡 人 狡 诈 事 主 终 究 不 可 靠 ，,generated:,"羯 胡 事 主 终 无 赖 ，
+"
+188,modern2poem: 统 治 全 国 多 年 竟 找 不 到 一 个 称 心 的 。,generated:,"御 宇 多 年 求 不 得 。
+"
+189,modern2poem: 在 成 都 城 外 那 柏 树 茂 密 的 地 方 。,generated:,"锦 官 城 外 柏 森 森 。
+"
+190,modern2poem: 仓 库 里 储 藏 了 很 多 腐 烂 的 粮 食 ，,generated:,"仓 腐 寄 顿 ，
+"
+191,modern2poem: 驾 着 车 登 上 古 原 。,generated:,"驱 车 登 古 原 。
+"
+192,modern2poem: 远 看 高 山 色 彩 明 亮 ，,generated:,"远 看 山 有 色 ，
+"
+193,modern2poem: 月 亮 已 经 沦 没 而 迷 惑 不 清 ， 没 有 什 么 可 看 的 不 如 远 远 走 开 吧 。,generated:,"阴 精 此 沦 惑 ， 去 去 不 足 观 。
+"
+194,modern2poem: 在 你 生 活 的 当 时 ， 凤 鸟 不 至 ， 你 叹 息 命 运 不 好 ； 麒 麟 出 现 ， 你 又 忧 伤 哀 怨 ， 感 叹 世 乱 道 穷 。,generated:,"叹 凤 嗟 身 否 ， 伤 麟 怨 道 穷 。
+"
+195,modern2poem: 谁 就 觉 得 府 第 屏 障 增 加 光 辉 。,generated:,"始 觉 屏 障 生 光 辉 。
+"
+196,modern2poem: 无 边 无 际 的 树 木 萧 萧 地 飘 下 落 叶 ， 望 不 到 头 的 长 江 水 滚 滚 奔 腾 而 来 。,generated:,"无 边 落 木 萧 萧 下 ， 不 尽 长 江 滚 滚 来 。
+"
+197,modern2poem: 苍 劲 钩 连 像 金 绳 铁 索 穿 锁 钮 ， 浑 然 又 像 织 梭 化 龙 九 鼎 沦 没 。,generated:,"金 绳 铁 索 锁 钮 壮 ， 古 鼎 跃 水 龙 腾 梭 。
+"
+198,modern2poem: 人 生 道 路 如 此 宽 广 ， 唯 独 我 没 有 出 路 。,generated:,"大 道 如 青 天 ， 我 独 不 得 出 。
+"
+199,modern2poem: 只 有 远 离 故 里 外 出 做 官 之 人 ，,generated:,"独 有 宦 游 人 ，
+"
+200,modern2poem: 长 沙 郡 公 业 辉 煌 。,generated:,"业 融 长 沙 。
+"
+201,modern2poem: 靠 捡 麦 穗 填 充 饥 肠 。,generated:,"拾 此 充 饥 肠 。
+"
+202,modern2poem: 弯 曲 的 山 路 上 原 本 没 有 雨 ，,generated:,"山 路 元 无 雨 ，
+"
+203,modern2poem: 燕 地 小 草 像 碧 丝 般 青 绿 ，,generated:,"燕 草 如 碧 丝 ，
+"
+204,modern2poem: 东 行 登 上 碣 石 山 ，,generated:,"东 临 碣 石 ，
+"
+205,modern2poem: 忧 心 如 焚 ，,generated:,"忧 心 烈 烈 ，
+"
+206,modern2poem: 随 意 地 用 短 笛 吹 奏 着 不 成 调 的 的 乐 曲 。,generated:,"短 笛 无 腔 信 口 吹 。
+"
+207,modern2poem: 新 雨 中 草 色 多 么 青 翠 葱 绿 ，,generated:,"草 色 新 雨 中 ，
+"
+208,modern2poem: 剧 辛 和 乐 毅 感 激 知 遇 的 恩 情 ， 竭 忠 尽 智 ， 以 自 己 的 才 能 来 报 效 君 主 。,generated:,"剧 辛 乐 毅 感 恩 分 ， 输 肝 剖 胆 效 英 才 。
+"
+209,modern2poem: 回 乡 隐 居 在 终 南 山 旁 。,generated:,"归 卧 南 山 陲 。
+"
+210,modern2poem: 东 行 登 上 碣 石 山 ， 来 观 赏 那 苍 茫 的 海 。,generated:,"东 临 碣 石 ， 以 观 沧 海 。
+"
+211,modern2poem: 八 月 秋 深 狂 风 大 声 吼 叫 ，,generated:,"八 月 秋 高 风 怒 号 ，
+"
+212,modern2poem: 山 上 的 树 重 重 遮 住 了 远 望 的 视 线 ，,generated:,"岭 树 重 遮 千 里 目 ，
+"
+213,modern2poem: 大 赦 文 书 一 日 万 里 传 四 方 ，,generated:,"赦 书 一 日 行 万 里 ，
+"
+214,modern2poem: 从 竹 林 的 缝 隙 里 看 洒 落 下 余 晖 的 夕 阳 。,generated:,"竹 中 窥 落 日 。
+"
+215,modern2poem: 身 经 沙 场 百 战 铁 甲 已 破 碎 ，,generated:,"百 战 沙 场 碎 铁 衣 ，
+"
+216,modern2poem: 焚 烧 杀 戮 掠 夺 ，,generated:,"焚 烧 杀 掠 ，
+"
+217,modern2poem: 江 东 亲 友 有 几 人 正 望 眼 欲 穿 ，,generated:,"江 上 几 人 在 ，
+"
+218,modern2poem: 晚 风 将 松 涛 声 送 进 窗 户 里 。,generated:,"松 声 晚 窗 里 。
+"
+219,modern2poem: 建 国 与 吴 魏 三 分 天 下 成 鼎 足 ， 恢 复 五 铢 钱 币 志 在 汉 室 振 兴 。,generated:,"势 分 三 足 鼎 ， 业 复 五 铢 钱 。
+"
+220,modern2poem: 凄 惨 悲 伤 让 我 肝 肠 寸 断 。,generated:,"凄 怆 摧 心 肝 。
+"
+221,modern2poem: 家 业 在 灾 年 中 荡 然 一 空 ， 兄 弟 分 散 各 自 你 西 我 东 。,generated:,"时 难 年 荒 世 业 空 ， 弟 兄 羁 旅 各 西 东 。
+"
+222,modern2poem: 珍 贵 之 木 的 高 处 啊 ，,generated:,"矫 矫 珍 木 巅 ，
+"
+223,modern2poem: 又 到 了 十 月 小 阳 春 。,generated:,"岁 亦 阳 止 。
+"
+224,modern2poem: 柳 绿 花 艳 忽 然 眼 前 又 出 现 一 个 山 村 。,generated:,"柳 暗 花 明 又 一 村 。
+"
+225,modern2poem: 大 雪 纷 飞 落 满 了 身 上 的 弓 刀 。,generated:,"大 雪 满 弓 刀 。
+"
+226,modern2poem: 好 比 晨 露 转 瞬 即 逝 ， 失 去 的 时 日 实 在 太 多 ！,generated:,"譬 如 朝 露 ， 去 日 苦 多 。
+"
+227,modern2poem: 孔 明 庙 前 有 一 株 古 老 的 柏 树 ， 枝 干 色 如 青 铜 根 柢 固 如 盘 石 。,generated:,"孔 明 庙 前 有 老 柏 ， 柯 如 青 铜 根 如 石 。
+"
+228,modern2poem: 大 清 早 就 骑 马 进 入 了 宫 门 。,generated:,"平 明 骑 马 入 宫 门 。
+"
+229,modern2poem: 僧 人 告 诉 我 说 ， 古 壁 佛 画 真 堂 皇 ， 用 火 把 照 看 ， 迷 迷 糊 糊 看 不 清 爽 。,generated:,"僧 言 古 壁 佛 画 好 ， 以 火 来 照 所 见 稀 。
+"
+230,modern2poem: 什 么 时 候 你 能 载 酒 到 这 里 来 ，,generated:,"何 当 载 酒 来 ，
+"
+231,modern2poem: 客 居 在 万 里 之 外 的 危 险 地 方 。,generated:,"羁 危 万 里 身 。
+"
+232,modern2poem: 听 的 人 都 为 她 悲 伤 。,generated:,"闻 者 为 悲 伤 。
+"
+233,modern2poem: 我 在 山 中 修 身 养 性 ， 观 赏 朝 槿 晨 开 晚 谢 ； 在 松 下 吃 着 素 食 ， 和 露 折 葵 不 沾 荤 腥 。,generated:,"山 中 习 静 观 朝 槿 ， 松 下 清 斋 折 露 葵 。
+"
+234,modern2poem: 黄 昏 时 来 到 空 潭 隐 蔽 之 地 ， 安 然 地 修 禅 抑 制 心 中 毒 龙 。,generated:,"薄 暮 空 潭 曲 ， 安 禅 制 毒 龙 。
+"
+235,modern2poem: 三 杯 下 肚 ， 一 诺 千 金 ， 义 气 重 于 五 岳 。,generated:,"三 杯 吐 然 诺 ， 五 岳 倒 为 轻 。
+"
+236,modern2poem: 我 悟 到 洞 庭 波 兮 木 叶 下 的 诗 情 。,generated:,"自 觉 洞 庭 波 。
+"
+237,modern2poem: 贫 家 的 女 儿 不 识 绮 罗 的 芳 香 ，,generated:,"蓬 门 未 识 绮 罗 香 ，
+"
+238,modern2poem: 是 因 为 有 永 不 枯 竭 的 源 头 源 源 不 断 地 为 它 输 送 活 水 。,generated:,"为 有 源 头 活 水 来 。
+"
+239,modern2poem: 牢 房 内 闪 着 点 点 鬼 火 一 片 静 谧 ， 春 院 里 的 门 直 到 天 黑 都 始 终 紧 闭 。,generated:,"阴 房 阗 鬼 火 ， 春 院 閟 天 黑 。
+"
+240,modern2poem: 秋 雨 滴 落 梧 桐 叶 场 面 寂 寞 更 惨 凄 。,generated:,"秋 雨 梧 桐 叶 落 时 。
+"
+241,modern2poem: 密 林 之 中 何 人 知 晓 我 在 这 里 ？,generated:,"深 林 人 不 知 ，
+"
+242,modern2poem: 我 本 来 就 没 有 家 ， 不 安 身 在 这 里 又 能 到 哪 里 去 呢 ? 何 况 就 算 是 故 乡 ， 也 没 有 像 这 里 这 样 优 美 的 湖 光 山 色 。,generated:,"我 本 无 家 更 安 往 ， 故 乡 无 此 好 湖 山 。
+"
+243,modern2poem: 灯 火 照 耀 着 西 宫 知 道 是 在 夜 饮 ， 眼 前 分 明 浮 现 复 道 蒙 恩 受 宠 时 。,generated:,"火 照 西 宫 知 夜 饮 ， 分 明 复 道 奉 恩 时 。
+"
+244,modern2poem: 远 看 天 边 的 树 林 活 象 是 荠 菜 ，,generated:,"天 边 树 若 荠 ，
+"
+245,modern2poem: 我 这 老 夫 ， 真 不 知 哪 是 要 去 的 地 方 ，   荒 山 里 迈 步 艰 难 ， 越 走 就 越 觉 凄 伤 。,generated:,"老 夫 不 知 其 所 往 ， 足 茧 荒 山 转 愁 疾 。
+"
+246,modern2poem: 黄 鹤 一 去 再 也 没 有 回 来 ， 千 百 年 来 只 看 见 悠 悠 的 白 云 。,generated:,"黄 鹤 一 去 不 复 返 ， 白 云 千 载 空 悠 悠 。
+"
+247,modern2poem: 傍 晚 时 心 情 不 快 ， 驾 着 车 登 上 古 原 。,generated:,"向 晚 意 不 适 ， 驱 车 登 古 原 。
+"
+248,modern2poem: 在 南 浦 凄 凉 愁 苦 的 分 别 ， 秋 风 萧 索 黯 淡 。,generated:,"南 浦 凄 凄 别 ， 西 风 袅 袅 秋 。
+"
+249,modern2poem: 与 吐 蕃 接 壤 的 白 雪 戍 是 那 么 的 遥 远 ， 黄 云 海 戍 迷 离 不 见 。,generated:,"白 雪 关 山 远 ， 黄 云 海 戍 迷 。
+"
+250,modern2poem: 山 中 砍 柴 人 差 不 多 走 尽 ， 烟 霭 中 鸟 儿 刚 归 巢 安 息 。,generated:,"樵 人 归 欲 尽 ， 烟 鸟 栖 初 定 。
+"
+251,modern2poem: 孩 子 睡 觉 姿 势 不 好 把 被 子 蹬 破 了 。,generated:,"娇 儿 恶 卧 踏 里 裂 。
+"
+252,modern2poem: 江 面 上 传 来 马 的 嘶 鸣 看 船 归 ，,generated:,"波 上 马 嘶 看 棹 去 ，
+"
+253,modern2poem: 流 动 的 平 羌 江 上 ， 倒 映 着 月 影 。,generated:,"影 入 平 羌 江 水 流 。
+"
+254,modern2poem: 它 虽 有 苦 心 也 难 免 蝼 蚁 侵 蚀 ，,generated:苦心 难 然 然 然 然 然 然 然 然 然 然 然 然 然 然 然 然 然 然 然 然 然 然 然 然 然 然 然 然 然 然 然 然 然 然 然 然 然 然 然 然 然 然 然 然 然 然 然,"苦 心 岂 免 容 蝼 蚁 ，
+"
+255,modern2poem: 正 要 带 领 轻 骑 兵 去 追 赶 ，,generated:,"欲 将 轻 骑 逐 ，
+"
+256,modern2poem: 牧 童 笑 而 不 答 遥 指 杏 花 山 村 。,generated:,"牧 童 遥 指 杏 花 村 。
+"
+257,modern2poem: 助 长 了 炎 热 的 肆 虐 ，,generated:,"助 长 炎 虐 ，
+"
+258,modern2poem: 恢 复 五 铢 钱 币 志 在 汉 室 振 兴 。,generated:,"业 复 五 铢 钱 。
+"
+259,modern2poem: 当 年 在 岐 王 宅 里 ， 常 常 见 到 你 的 演 出 ； 在 崔 九 堂 前 ， 也 曾 多 次 欣 赏 你 的 艺 术 。,generated:,"岐 王 宅 里 寻 常 见 ， 崔 九 堂 前 几 度 闻 。
+"
+260,modern2poem: 幸 福 不 会 凭 空 至 ，,generated:,"福 不 虚 至 ，
+"
+261,modern2poem: 难 道 不 怕 猎 人 的 金 弹 丸 ？,generated:,"得 无 金 丸 惧 ？
+"
+262,modern2poem: 香 炉 峰 瀑 布 与 它 遥 遥 相 望 ， 重 崖 叠 嶂 耸 云 霄 莽 莽 苍 苍 。,generated:,"香 炉 瀑 布 遥 相 望 ， 回 崖 沓 嶂 凌 苍 苍 。
+"
+263,modern2poem: 风 急 天 高 猿 猴 啼 叫 显 得 十 分 悲 哀 ，,generated:,"风 急 天 高 猿 啸 哀 ，
+"
+264,modern2poem: 深 夜 时 分 听 到 前 殿 传 来 按 着 节 拍 唱 歌 的 声 音 。,generated:,"夜 深 前 殿 按 歌 声 。
+"
+265,modern2poem: 喜 气 洋 洋 归 夫 家 。,generated:,"宜 其 室 家 。
+"
+266,modern2poem: 西 原 贼 人 攻 入 道 州 城 ，,generated:,"西 原 贼 入 道 州 ，
+"
+267,modern2poem: 孔 明 庙 前 有 一 株 古 老 的 柏 树 ，,generated:,"孔 明 庙 前 有 老 柏 ，
+"
+268,modern2poem: 喝 醉 酒 酣 睡 不 知 天 已 黄 昏 ，,generated:,"醉 卧 不 知 白 日 暮 ，
+"
+269,modern2poem: 太 真 听 说 君 王 的 使 者 到 了 ， 从 绣 饰 华 美 的 帐 子 里 惊 醒 。,generated:,"闻 道 汉 家 天 子 使 ， 九 华 帐 里 梦 魂 惊 。
+"
+270,modern2poem: 白 雪 也 嫌 春 色 来 得 太 晚 了 ， 所 以 有 意 化 作 花 儿 在 庭 院 树 间 穿 飞 。,generated:,"白 雪 却 嫌 春 色 晚 ， 故 穿 庭 树 作 飞 花 。
+"
+271,modern2poem: 牧 童 骑 在 黄 牛 背 上 ， 嘹 亮 的 歌 声 在 林 中 回 荡 。,generated:,"牧 童 骑 黄 牛 ， 歌 声 振 林 樾 。
+"
+272,modern2poem: 秋 风 萧 索 黯 淡 。,generated:,"西 风 袅 袅 秋 。
+"
+273,modern2poem: 穿 上 衣 服 推 开 枕 头 出 了 睡 帐 ，,generated:,"揽 衣 推 枕 起 徘 徊 ，
+"
+274,modern2poem: 山 峦 重 叠 水 流 曲 折 正 担 心 无 路 可 走 ， 柳 绿 花 艳 忽 然 眼 前 又 出 现 一 个 山 村 。,generated:,"山 重 水 复 疑 无 路 ， 柳 暗 花 明 又 一 村 。
+"
+275,modern2poem: 我 和 猫 儿 都 不 愿 出 门 。,generated:,"我 与 狸 奴 不 出 门 。
+"
+276,modern2poem: 年 年 战 死 的 尸 骨 埋 葬 于 荒 野 ， 换 来 的 只 是 西 域 葡 萄 送 汉 家 。,generated:,"年 年 战 骨 埋 荒 外 ， 空 见 蒲 桃 入 汉 家 。
+"
+277,modern2poem: 我 在 南 陵 嫌 送 信 人 来 得 太 迟 。,generated:,"南 陵 寓 使 迟 。
+"
+278,modern2poem: 青 枫 树 叶 已 变 红 秋 霜 已 下 降 。,generated:,"青 枫 叶 赤 天 雨 霜 。
+"
+279,modern2poem: 轮 台 城 头 夜 里 吹 起 号 角 ， 轮 台 城 北 旄 头 星 正 降 落 。,generated:,"轮 台 城 头 夜 吹 角 ， 轮 台 城 北 旄 头 落 。
+"
+280,modern2poem: 意 中 之 人 在 何 处 ？ 就 在 河 水 那 一 方 。,generated:,"所 谓 伊 人 ， 在 水 一 方 。
+"
+281,modern2poem: 要 问 池 塘 里 的 水 为 何 这 样 清 澈 呢 ？,generated:,"问 渠 那 得 清 如 许 ？
+"
+282,modern2poem: 蓬 莱 宫 中 的 孤 寂 时 间 还 很 漫 长 。,generated:,"蓬 莱 宫 中 日 月 长 。
+"
+283,modern2poem: 月 色 如 霜 所 以 霜 飞 无 从 觉 察 ， 洲 上 的 白 沙 和 月 色 融 合 在 一 起 看 不 分 明 。,generated:,"空 里 流 霜 不 觉 飞 ， 汀 上 白 沙 看 不 见 。
+"
+284,modern2poem: 放 牛 的 孩 子 横 坐 在 牛 背 上 ，,generated:,"牧 童 归 去 横 牛 背 ，
+"
+285,modern2poem: 王 羲 之 书 法 时 俗 趁 机 显 秀 媚 ，,generated:,"羲 之 俗 书 趁 姿 媚 ，
+"
+286,modern2poem: 邓 攸 没 有 后 代 是 命 运 的 安 排 ， 潘 岳 悼 念 亡 妻 只 是 徒 然 悲 鸣 。,generated:,"邓 攸 无 子 寻 知 命 ， 潘 岳 悼 亡 犹 费 词 。
+"
+287,modern2poem: 世 人 只 晓 听 曲 不 懂 得 欣 赏 ，,generated:,"世 人 解 听 不 解 赏 ，
+"
+288,modern2poem: 一 个 小 孩 撑 着 小 船 ， 偷 偷 地 采 了 白 莲 回 来 。,generated:,"小 娃 撑 小 艇 ， 偷 采 白 莲 回 。
+"
+289,modern2poem: 如 今 回 来 路 途 中 ，,generated:,"今 我 来 思 ，
+"
+290,modern2poem: 这 清 幽 境 地 很 合 我 的 雅 兴 ，,generated:,"及 兹 契 幽 绝 ，
+"
+291,modern2poem: 葛 草 长 得 长 又 长 ，,generated:,"葛 之 覃 兮 ，
+"
+292,modern2poem: 可 悲 遭 遇 千 万 代 令 人 伤 情 。,generated:,"万 古 惟 留 楚 客 悲 。
+"
+293,modern2poem: 狂 风 卷 走 了 我 屋 顶 上 好 几 层 茅 草 。,generated:,"卷 我 屋 上 三 重 茅 。
+"
+294,modern2poem: 所 有 的 山 ， 飞 鸟 全 都 断 绝 ； 所 有 的 路 ， 不 见 人 影 踪 迹 。,generated:,"千 山 鸟 飞 绝 ， 万 径 人 踪 灭 。
+"
+295,modern2poem: 只 恨 春 宵 太 短 一 觉 就 睡 到 太 阳 高 高 升 起 ， 君 王 从 此 再 也 不 早 朝 了 。,generated:,"春 宵 苦 短 日 高 起 ， 从 此 君 王 不 早 朝 。
+"
+296,modern2poem: 无 边 无 际 的 风 光 焕 然 一 新 。,generated:,"无 边 光 景 一 时 新 。
+"
+297,modern2poem: 也 不 及 汪 伦 送 别 我 的 一 片 情 深 。,generated:,"不 及 汪 伦 送 我 情 。
+"
+298,modern2poem: 从 不 将 安 和 危 放 在 心 里 。,generated:不 将安 和 危 放 心 。,"性 命 安 可 怀 ？
+"
+299,modern2poem: 旧 时 恩 爱 难 忘 国 家 开 始 振 兴 。,generated:,"云 雨 难 忘 日 月 新 。
+"
+300,modern2poem: 君 王 思 念 贵 妃 的 情 意 令 他 感 动 ，,generated:,"为 感 君 王 辗 转 思 ，
+"
+301,modern2poem: 漫 漫 长 夜 中 泛 流 着 琴 瑟 的 清 音 ； 青 萝 轻 拂 好 象 有 西 风 飕 飕 而 生 。,generated:,"遥 夜 泛 清 瑟 ， 西 风 生 翠 萝 。
+"
+302,modern2poem: 古 台 破 败 草 木 已 经 凋 落 ， 秋 天 景 色 引 起 我 的 乡 思 。,generated:,"古 台 摇 落 后 ， 秋 日 望 乡 心 。
+"
+303,modern2poem: 我 在 南 山 下 种 植 豆 子 ， 地 里 野 草 茂 盛 豆 苗 豌 稀 。,generated:,"种 豆 南 山 下 ， 草 盛 豆 苗 稀 。
+"
+304,modern2poem: 高 高 的 山 顶 上 有 一 座 茅 屋 ， 从 山 下 走 上 去 足 有 三 十 里 。,generated:,"绝 顶 一 茅 茨 ， 直 上 三 十 里 。
+"
+305,modern2poem: 你 说 因 为 生 活 不 得 意 ， 回 乡 隐 居 在 终 南 山 旁 。,generated:,"君 言 不 得 意 ， 归 卧 南 山 陲 。
+"
+306,modern2poem: 诸 生 就 能 钻 研 解 说 一 起 切 蹉 。,generated:,"诸 生 讲 解 得 切 磋 。
+"
+307,modern2poem: 潮 气 与 毒 气 相 杂 到 处 腥 臊 。,generated:,"海 气 湿 蛰 熏 腥 臊 。
+"
+308,modern2poem: 世 事 何 等 地 纷 繁 渺 茫 ， 不 如 做 一 名 隐 居 的 钓 叟 。,generated:,"生 事 且 弥 漫 ， 愿 为 持 竿 叟 。
+"
+309,modern2poem: 我 在 年 少 时 离 开 家 乡 ， 到 了 迟 暮 之 年 才 回 来 。,generated:,"少 小 离 家 老 大 回 ，
+"
+310,modern2poem: 时 届 暮 春 白 雪 飘 飞 归 来 塞 外 ， 万 里 奔 波 渡 过 黄 河 绕 过 黑 山 。,generated:,"三 春 白 雪 归 青 冢 ， 万 里 黄 河 绕 黑 山 。
+"
+311,modern2poem: 阳 光 下 鹿 群 呦 呦 欢 鸣 ，,generated:,"呦 呦 鹿 鸣 ，
+"
+312,modern2poem: 手 持 杯 蛟 教 导 我 掷 占 方 法 ，,generated:,"手 持 杯 珓 导 我 掷 ，
+"
+313,modern2poem: 长 乐 宫 与 后 花 园 正 是 春 意 盎 然 ，,generated:,"长 乐 宫 连 上 苑 春 ，
+"
+314,modern2poem: 秋 水 胜 涨 ， 几 乎 与 岸 平 ， 水 天 含 混 迷 茫 与 天 空 浑 然 一 体 。,generated:,"八 月 湖 水 平 ， 涵 虚 混 太 清 。
+"
+315,modern2poem: 再 请 君 来 这 里 观 赏 菊 花 。,generated:,"还 来 就 菊 花 。
+"
+316,modern2poem: 柳 荫 下 的 人 们 等 待 着 船 靠 岸 。,generated:,"柳 边 人 歇 待 船 归 。
+"
+317,modern2poem: 纵 然 到 了 四 十 岁 还 要 到 西 部 边 疆 去 屯 田 。,generated:,"便 至 四 十 西 营 田 。
+"
+318,modern2poem: 两 只 黄 鹂 在 翠 绿 的 柳 树 间 婉 转 地 歌 唱 ，,generated:,"两 个 黄 鹂 鸣 翠 柳 ，
+"
+319,modern2poem: 在 我 东 晋 鼎 盛 日 ， 长 沙 郡 公 业 辉 煌 。,generated:,"在 我 中 晋 ， 业 融 长 沙 。
+"
+320,modern2poem: 苍 劲 钩 连 像 金 绳 铁 索 穿 锁 钮 ，,generated:,"金 绳 铁 索 锁 钮 壮 ，
+"
+321,modern2poem: 仪 容 举 止 都 要 符 合 潮 流 。,generated:,"容 止 顺 其 猷 。
+"
+322,modern2poem: 冒 着 严 寒 独 自 盛 开 。,generated:,"凌 寒 独 自 开 。
+"
+323,modern2poem: 想 在 山 中 找 个 人 家 去 投 宿 ，,generated:,"欲 投 人 处 宿 ，
+"
+324,modern2poem: 王 昭 君 生 长 的 乡 村 至 今 留 存 。,generated:,"生 长 明 妃 尚 有 村 。
+"
+325,modern2poem: 我 的 头 发 刚 刚 盖 过 额 头 ，,generated:,"妾 发 初 覆 额 ，
+"
+326,modern2poem: 唐 明 皇 爱 好 女 色 一 直 在 寻 找 绝 色 美 女 ，,generated:,"汉 皇 重 色 思 倾 国 ，
+"
+327,modern2poem: 万 里 奔 波 渡 过 黄 河 绕 过 黑 山 。,generated:,"万 里 黄 河 绕 黑 山 。
+"
+328,modern2poem: 长 信 宫 中 惟 有 秋 月 尚 明 ，,generated:,"长 信 宫 中 秋 月 明 ，
+"
+329,modern2poem: 哀 鸣 的 胡 雁 夜 夜 从 空 中 飞 过 ， 胡 人 士 兵 个 个 眼 泪 双 双 滴 落 。,generated:,"胡 雁 哀 鸣 夜 夜 飞 ， 胡 儿 眼 泪 双 双 落 。
+"
+330,modern2poem: 在 东 篱 之 下 采 摘 菊 花 ， 悠 然 间 ， 那 远 处 的 南 山 映 入 眼 帘 。,generated:,"采 菊 东 篱 下 ， 悠 然 见 南 山 。
+"
+331,modern2poem: 何 必 去 寻 找 世 外 的 仙 境 ， 人 世 间 就 有 美 好 的 桃 源 。,generated:,"何 用 别 寻 方 外 去 ， 人 间 亦 自 有 丹 丘 。
+"
+332,modern2poem: 相 伴 到 田 里 送 饭 食 ，,generated:,"相 随 饷 田 去 ，
+"
+333,modern2poem: 真 可 怜 呵 那 无 定 河 边 成 堆 的 白 骨 ，,generated:,"可 怜 无 定 河 边 骨 ，
+"
+334,modern2poem: 她 弹 熟 了 琵 琶 能 歌 善 舞 。,generated:,"惯 弹 琵 琶 解 歌 舞 。
+"
+335,modern2poem: 夜 静 更 深 ， 月 光 只 照 亮 了 人 家 房 屋 的 一 半 ， 另 一 半 隐 藏 在 黑 夜 里 。,generated:,"更 深 月 色 半 人 家 ，
+"
+336,modern2poem: 士 兵 们 也 靠 它 隐 蔽 遮 挡 。,generated:,"小 人 所 腓 。
+"
+337,modern2poem: 泪 水 湿 透 了 罗 巾 无 法 入 睡 好 梦 难 成 ， 深 夜 时 分 听 到 前 殿 传 来 按 着 节 拍 唱 歌 的 声 音 。,generated:,"泪 湿 罗 巾 梦 不 成 ， 夜 深 前 殿 按 歌 声 。
+"
+338,modern2poem: 经 过 了 近 十 年 的 战 乱 流 离 ，,generated:,"十 年 离 乱 后 ，
+"
+339,modern2poem: 秋 天 到 了 却 尚 未 见 它 开 放 。,generated:,"秋 来 未 著 花 。
+"
+340,modern2poem: 说 回 家 了 回 家 了 ， 但 已 到 了 年 末 仍 不 能 实 现 。,generated:,"曰 归 曰 归 ， 岁 亦 莫 止 。
+"
+341,modern2poem: 轻 悠 悠 的 波 光 涟 漪 荡 入 窗 户 。,generated:,"演 漾 在 窗 户 。
+"
+342,modern2poem: 两 岸 风 吹 树 动 枝 叶 沙 沙 作 响 ，,generated:,"风 鸣 两 岸 叶 ，
+"
+343,modern2poem: 虢 国 夫 人 受 到 皇 上 的 宠 恩 ， 大 清 早 就 骑 马 进 入 了 宫 门 。,generated:,"虢 国 夫 人 承 主 恩 ， 平 明 骑 马 入 宫 门 。
+"
+344,modern2poem: 青 黑 色 朝 天 耸 立 足 有 二 千 尺 。,generated:,"黛 色 参 天 二 千 尺 。
+"
+345,modern2poem: 一 连 喝 干 十 几 杯 还 没 有 醉 意 ，,generated:,"十 觞 亦 不 醉 ，
+"
+346,modern2poem: 乌 云 上 涌 ， 就 如 墨 汁 泼 下 ， 却 又 在 天 边 露 出 一 段 山 峦 ， 明 丽 清 新 ， 大 雨 激 起 的 水 花 如 白 珠 碎 石 ， 飞 溅 入 船 。,generated:,"黑 云 翻 墨 未 遮 山 ， 白 雨 跳 珠 乱 入 船 。
+"
+347,modern2poem: 黄 昏 里 吹 来 萧 瑟 凉 风 ， 听 晚 蝉 声 声 愁 绪 更 添 。,generated:,"日 夕 凉 风 至 ， 闻 蝉 但 益 悲 。
+"
+348,modern2poem: 意 中 之 人 在 何 处 ？,generated:,"所 谓 伊 人 ，
+"
+349,modern2poem: 寄 给 在 浮 梁 的 大 哥 、 在 於 潜 的 七 哥 ，,generated:,"寄 上 浮 梁 大 兄 、 於 潜 七 兄 、 乌 江 十 五 兄 ，
+"
+350,modern2poem: 在 乌 江 的 十 五 哥 和 在 符 离 、 下 邽 的 弟 弟 妹 妹 们 看 。,generated:,"兼 示 符 离 及 下 邽 弟 妹 。
+"
+351,modern2poem: 我 的 家 临 近 九 江 边 ， 来 来 往 往 都 在 九 江 附 近 。,generated:,"家 临 九 江 水 ， 来 去 九 江 侧 。
+"
+352,modern2poem: 当 年 象 后 羿 飞 箭 射 雀 无 目 ， 如 今 不 操 弓 疡 瘤 生 于 左 肘 。,generated:,"昔 时 飞 箭 无 全 目 ， 今 日 垂 杨 生 左 肘 。
+"
+353,modern2poem: 一 车 的 炭 ， 一 千 多 斤 ， 太 监 差 役 们 硬 是 要 赶 着 走 ， 老 翁 是 百 般 不 舍 ， 但 又 无 可 奈 何 。,generated:,"一 车 炭 ， 千 余 斤 ， 宫 使 驱 将 惜 不 得 。
+"
+354,modern2poem: 井 畔 梧 桐 在 秋 夜 的 风 中 抖 动 ， 只 有 蜡 烛 残 光 照 着 孤 单 的 我 。,generated:,"清 秋 幕 府 井 梧 寒 ， 独 宿 江 城 蜡 炬 残 。
+"
+355,modern2poem: 柏 树 高 耸 云 雾 飘 来 气 接 巫 峡 ，,generated:,"云 来 气 接 巫 峡 长 ，
+"
+356,modern2poem: 因 为 看 到 月 亮 而 有 所 感 触 ，,generated:,"因 望 月 有 感 ，
+"
+357,modern2poem: 人 生 自 古 以 来 有 谁 能 够 长 生 不 死 ？,generated:,"人 生 自 古 谁 无 死 ？
+"
+358,modern2poem: 常 使 骅 骝 好 马 的 生 气 凋 敝 失 丧 。,generated:,"忍 使 骅 骝 气 凋 丧 。
+"
+359,modern2poem: 回 来 一 看 池 苑 的 地 方 依 旧 ， 太 液 池 边 芙 蓉 仍 在 未 央 宫 中 垂 柳 未 改 。,generated:,"归 来 池 苑 皆 依 旧 ， 太 液 芙 蓉 未 央 柳 。
+"
+360,modern2poem: 云 梦 大 泽 水 气 蒸 腾 白 白 茫 茫 ，,generated:,"气 蒸 云 梦 泽 ，
+"
+361,modern2poem: 走 出 齐 鲁 ， 依 然 可 见 那 青 青 的 峰 顶 。,generated:,"齐 鲁 青 未 了 。
+"
+362,modern2poem: 足 可 以 把 身 心 和 耳 目 荡 涤 。,generated:,"自 足 荡 心 耳 。
+"
+363,modern2poem: 想 带 着 一 瓢 酒 去 看 你 ，,generated:,"欲 持 一 瓢 酒 ，
+"
+364,modern2poem: 千 里 迢 迢 可 否 共 赏 醉 人 婵 娟 ？ 微 风 吹 拂 着 清 香 四 溢 的 兰 杜 。,generated:,"千 里 共 如 何 ， 微 风 吹 兰 杜 。
+"
+365,modern2poem: 你 从 哪 里 得 来 这 拓 本 的 底 稿 ？ 丝 毫 都 很 完 备 一 点 也 无 差 错 。,generated:,"公 从 何 处 得 纸 本 ， 毫 发 尽 备 无 差 讹 。
+"
+366,modern2poem: 都 是 为 了 和 猃 狁 打 仗 。,generated:,"猃 狁 之 故 。
+"
+367,modern2poem: 虢 国 夫 人 受 到 皇 上 的 宠 恩 ，,generated:,"虢 国 夫 人 承 主 恩 ，
+"
+368,modern2poem: 玄 宗 返 回 长 安 杨 贵 妃 早 已 死 ，,generated:,"玄 宗 回 马 杨 妃 死 ，
+"
+369,modern2poem: 春 风 吹 开 桃 李 花 物 是 人 非 不 胜 悲 ，,generated:,"春 风 桃 李 花 开 日 ，
+"
+370,modern2poem: 边 疆 无 数 士 兵 流 血 形 成 了 海 水 ，,generated:,"边 庭 流 血 成 海 水 ，
+"
+371,modern2poem: 敬 告 大 家 我 要 归 隐 云 山 。,generated:,"敢 告 云 山 从 此 始 。
+"
+372,modern2poem: 贾 谊 被 贬 在 此 地 居 住 三 年 ， 可 悲 遭 遇 千 万 代 令 人 伤 情 。,generated:,"三 年 谪 宦 此 栖 迟 ， 万 古 惟 留 楚 客 悲 。
+"
+373,modern2poem: 千 里 飞 蓬 也 飘 出 汉 塞 ，,generated:,"征 蓬 出 汉 塞 ，
+"
+374,modern2poem: 竹 子 抓 住 青 山 一 点 也 不 放 松 ， 它 的 根 牢 牢 地 扎 在 岩 石 缝 中 。,generated:,"咬 定 青 山 不 放 松 ， 立 根 原 在 破 岩 中 。
+"
+375,modern2poem: 灾 祸 容 易 身 边 降 。,generated:,"祸 亦 易 来 。
+"
+376,modern2poem: 什 么 时 候 能 够 再 举 杯 共 饮 ， 昨 天 夜 里 我 们 还 在 月 色 中 同 行 。,generated:,"几 时 杯 重 把 ， 昨 夜 月 同 行 。
+"
+377,modern2poem: 欲 走 还 留 之 间 ， 各 自 畅 饮 悲 欢 。,generated:,"请 君 试 问 东 流 水 ， 别 意 与 之 谁 短 长 。
+"
+378,modern2poem: 癸 卯 年 ， 西 原 贼 人 攻 入 道 州 城 ， 焚 烧 杀 戮 掠 夺 ， 几 乎 扫 光 全 城 才 走 。,generated:,"癸 卯 岁 ， 西 原 贼 入 道 州 ， 焚 烧 杀 掠 ， 几 尽 而 去 。
+"
+379,modern2poem: 隔 水 询 问 那 樵 夫 可 否 方 便 ？,generated:,"隔 水 问 樵 夫 。
+"
+380,modern2poem: 天 空 黑 暗 ， 大 风 卷 着 江 湖 上 的 雨 ， 四 周 的 山 上 哗 哗 大 雨 像 巨 浪 翻 滚 之 声 。,generated:,"风 卷 江 湖 雨 暗 村 ， 四 山 声 作 海 涛 翻 。
+"
+381,modern2poem: 生 时 应 当 做 人 中 豪 杰 ，,generated:,"生 当 作 人 杰 ，
+"
+382,modern2poem: 洲 上 的 白 沙 和 月 色 融 合 在 一 起 看 不 分 明 。,generated:,"汀 上 白 沙 看 不 见 。
+"
+383,modern2poem: 我 给 你 们 唱 一 首 歌 ， 请 你 们 为 我 倾 耳 细 听 。,generated:,"与 君 歌 一 曲 ， 请 君 为 我 倾 耳 听 。
+"
+384,modern2poem: 大 雪 纷 纷 满 天 飞 。,generated:,"雨 雪 霏 霏 。
+"
+385,modern2poem: 临 颍 美 人 李 十 二 娘 ， 在 白 帝 城 表 演 ， 她 和 此 曲 起 舞 ， 精 妙 无 比 神 采 飞 扬 。,generated:,"临 颍 美 人 在 白 帝 ， 妙 舞 此 曲 神 扬 扬 。
+"
+386,modern2poem: 千 里 飞 蓬 也 飘 出 汉 塞 ， 北 归 大 雁 正 翱 翔 云 天 。,generated:,"征 蓬 出 汉 塞 ， 归 雁 入 胡 天 。
+"
+387,modern2poem: 宦 官 骑 马 飞 驰 不 敢 扬 起 灰 尘 ， 御 厨 络 绎 不 绝 送 来 海 味 山 珍 。,generated:,"黄 门 飞 鞚 不 动 尘 ， 御 厨 络 绎 送 八 珍 。
+"
+388,modern2poem: 我 看 自 古 以 来 的 贤 达 之 人 ，,generated:,"吾 观 自 古 贤 达 人 ，
+"
+389,modern2poem: 从 绣 饰 华 美 的 帐 子 里 惊 醒 。,generated:,"九 华 帐 里 梦 魂 惊 。
+"
+390,modern2poem: 关 在 这 里 的 人 多 ， 拥 挤 杂 乱 ， 到 处 散 发 着 腥 臊 汗 臭 ， 这 时 屋 子 里 都 是 人 气 ；,generated:,"骈 肩 杂 遝 ， 腥 臊 汗 垢 ， 时 则 为 人 气 ；
+"
+391,modern2poem: 走 近 一 听 水 却 没 有 声 音 。,generated:,"近 听 水 无 声 。
+"
+392,modern2poem: 夜 里 有 差 役 来 强 征 兵 。,generated:,"有 吏 夜 捉 人 。
+"
+393,modern2poem: 但 是 位 高 孤 傲 必 定 多 招 烈 风 。,generated:,"冥 冥 孤 高 多 烈 风 。
+"
+394,modern2poem: 偶 然 在 林 间 遇 见 个 把 乡 村 父 老 ，,generated:,"偶 然 值 林 叟 ，
+"
+395,modern2poem: 衡 阳 的 归 雁 会 为 我 捎 来 回 书 。,generated:,"衡 阳 归 雁 几 封 书 。
+"
+396,modern2poem: 古 台 破 败 草 木 已 经 凋 落 ，,generated:,"古 台 摇 落 后 ，
+"
+397,modern2poem: 缀 饰 的 美 玉 悬 荡 在 我 眼 前 。,generated:,"尚 之 以 琼 华 乎 而 。
+"
+398,modern2poem: 热 泪 湿 双 袖 还 不 断 流 淌 。,generated:,"双 袖 龙 钟 泪 不 干 。
+"
+399,modern2poem: 溪 柴 烧 的 小 火 和 裹 在 身 上 的 毛 毡 都 很 暖 和 ，,generated:,"溪 柴 火 软 蛮 毡 暖 ，
+"
+400,modern2poem: 任 凭 长 年 雨 打 日 晒 野 火 焚 烧 ， 仗 着 鬼 神 守 护 石 鼓 永 不 湮 没 。,generated:,"雨 淋 日 灸 野 火 燎 ， 鬼 物 守 护 烦 撝 呵 。
+"
+401,modern2poem: 所 以 来 与 你 决 裂 。,generated:,"故 来 相 决 绝 。
+"
+402,modern2poem: 春 天 过 去 ， 可 是 依 旧 有 许 多 花 草 争 奇 斗 艳 ， 人 走 近 ， 可 是 鸟 却 依 然 没 有 被 惊 动 。,generated:,"春 去 花 还 在 ， 人 来 鸟 不 惊 。
+"
+403,modern2poem: 你 北 方 的 住 处 像 春 天 般 遥 远 ； 我 在 南 陵 嫌 送 信 人 来 得 太 迟 。,generated:,"北 斗 兼 春 远 ， 南 陵 寓 使 迟 。
+"
+404,modern2poem: 为 你 取 名 叫 做 俨 ， 为 你 取 字 叫 求 思 。,generated:,"名 汝 曰 俨 ， 字 汝 求 思 。
+"
+405,modern2poem: 辽 东 少 妇 年 方 十 五 ，,generated:,"辽 东 小 妇 年 十 五 ，
+"
+406,modern2poem: 出 征 士 兵 弓 箭 各 自 佩 在 腰 。,generated:,"行 人 弓 箭 各 在 腰 。
+"
+407,modern2poem: 伤 时 感 世 的 诗 人 至 今 未 回 还 。,generated:,"词 客 哀 时 且 未 还 。
+"
+408,modern2poem: 偶 与 他 谈 笑 聊 天 每 每 忘 了 还 家 。,generated:,"谈 笑 无 还 期 。
+"
+409,modern2poem: 安 然 地 修 禅 抑 制 心 中 毒 龙 。,generated:,"安 禅 制 毒 龙 。
+"
+410,modern2poem: 我 的 书 信 不 知 何 时 你 能 收 到 ？ 只 恐 江 湖 险 恶 ， 秋 水 多 风 浪 。,generated:,"鸿 雁 几 时 到 ， 江 湖 秋 水 多 。
+"
+411,modern2poem: 夜 露 沾 湿 了 我 的 衣 。,generated:,"夕 露 沾 我 衣 。
+"
+412,modern2poem: 就 像 今 年 冬 天 ， 还 没 有 停 止 征 调 函 谷 关 以 西 的 士 兵 。,generated:,"且 如 今 年 冬 ， 未 休 关 西 卒 。
+"
+413,modern2poem: 只 有 黯 然 的 春 愁 让 我 孤 枕 难 眠 。,generated:,"春 愁 黯 黯 独 成 眠 。
+"
+414,modern2poem: 幸 福 不 会 凭 空 至 ， 灾 祸 容 易 身 边 降 。,generated:,"福 不 虚 至 ， 祸 亦 易 来 。
+"
+415,modern2poem: 我 有 一 种 气 ，,generated:诗 我 有 一种 气 。,"吾 气 有 一 ，
+"
+416,modern2poem: 天 上 万 里 黄 云 变 动 着 风 色 ， 江 流 波 涛 九 道 如 雪 山 奔 淌 。,generated:,"黄 云 万 里 动 风 色 ， 白 波 九 道 流 雪 山 。
+"
+417,modern2poem: 我 的 家 临 近 九 江 边 ，,generated:,"家 临 九 江 水 ，
+"
+418,modern2poem: 幽 怨 的 琴 声 在 长 夜 中 回 荡 ， 弦 音 悲 切 ， 似 有 凄 风 苦 雨 缭 绕 。,generated:,"清 瑟 怨 遥 夜 ， 绕 弦 风 雨 哀 。
+"
+419,modern2poem: 那 立 着 高 高 桅 杆 的 小 船 在 夜 里 孤 零 地 停 泊 着 。,generated:,"危 樯 独 夜 舟 。
+"
+420,modern2poem: 望 着 你 的 小 船 驶 向 茫 茫 云 水 ， 频 频 挥 手 惜 别 泪 水 沾 湿 佩 巾 。,generated:,"望 君 烟 水 阔 ， 挥 手 泪 沾 巾 。
+"
+421,modern2poem: 怎 么 能 在 人 间 居 住 。,generated:,"岂 向 人 间 住 。
+"
+422,modern2poem: 邓 攸 没 有 后 代 是 命 运 的 安 排 ，,generated:,"邓 攸 无 子 寻 知 命 ，
+"
+423,modern2poem: 一 生 当 中 疾 病 缠 身 今 日 独 上 高 台 。,generated:,"百 年 多 病 独 登 台 。
+"
+424,modern2poem: 傍 晚 时 心 情 不 快 ，,generated:,"向 晚 意 不 适 ，
+"
+425,modern2poem: 牢 房 内 闪 着 点 点 鬼 火 一 片 静 谧 ，,generated:,"阴 房 阗 鬼 火 ，
+"
+426,modern2poem: 你 从 哪 里 得 来 这 拓 本 的 底 稿 ？,generated:,"公 从 何 处 得 纸 本 ，
+"
+427,modern2poem: 王 羲 之 书 法 时 俗 趁 机 显 秀 媚 ， 书 写 数 张 还 可 换 回 一 群 白 鹅 。,generated:,"羲 之 俗 书 趁 姿 媚 ， 数 纸 尚 可 博 白 鹅 。
+"
+428,modern2poem: 仓 库 里 储 藏 了 很 多 腐 烂 的 粮 食 ， 阵 阵 霉 味 逼 人 ， 这 时 屋 子 里 都 是 霉 烂 的 米 气 ；,generated:,"仓 腐 寄 顿 ， 陈 陈 逼 人 ， 时 则 为 米 气 ；
+"
+429,modern2poem: 心 绪 纷 乱 不 止 啊 能 结 识 王 子 。,generated:,"心 几 烦 而 不 绝 兮 ， 得 知 王 子 。
+"
+430,modern2poem: 在 世 上 活 着 贵 在 韬 光 养 晦 ， 为 什 么 要 隐 居 清 高 自 比 云 月 ？ 我 看 自 古 以 来 的 贤 达 之 人 ， 功 绩 告 成 之 后 不 自 行 隐 退 都 死 于 非 命 。,generated:,"含 光 混 世 贵 无 名 ， 何 用 孤 高 比 云 月 ？ 吾 观 自 古 贤 达 人 ， 功 成 不 退 皆 殒 身 。
+"
+431,modern2poem: 您 难 道 不 曾 看 见 吗 ？ 那 辽 阔 的 走 马 川 紧 靠 着 雪 海 边 缘 ， 茫 茫 无 边 的 黄 沙 连 接 云 天 。,generated:,"君 不 见 走 马 川 行 雪 海 边 ， 平 沙 莽 莽 黄 入 天 。
+"
+432,modern2poem: 来 观 赏 那 苍 茫 的 海 。,generated:,"以 观 沧 海 。
+"
+433,modern2poem: 今 夜 又 是 一 个 什 么 吉 日 良 辰 ， 让 我 们 共 同 在 这 烛 光 下 叙 谈 。,generated:,"今 夕 复 何 夕 ， 共 此 灯 烛 光 。
+"
+434,modern2poem: 那 美 丽 贤 淑 的 女 子 ， 是 君 子 的 好 配 偶 。,generated:,"窈 窕 淑 女 ， 君 子 好 逑 。
+"
+435,modern2poem: 一 座 高 桥 隔 着 云 烟 出 现 ，,generated:,"隐 隐 飞 桥 隔 野 烟 ，
+"
+436,modern2poem: 嘹 亮 的 歌 声 在 林 中 回 荡 。,generated:,"歌 声 振 林 樾 。
+"
+437,modern2poem: 将 士 何 须 哀 怨 那 柳 树 不 发 芽 ， 春 风 根 本 吹 不 到 玉 门 关 外 。,generated:,"羌 笛 何 须 怨 杨 柳 ， 春 风 不 度 玉 门 关 。
+"
+438,modern2poem: 遥 望 美 丽 洞 庭 的 湖 光 山 色 。,generated:,"潭 面 无 风 镜 未 磨 。
+"
+439,modern2poem: 无 边 无 际 的 树 木 萧 萧 地 飘 下 落 叶 ，,generated:,"无 边 落 木 萧 萧 下 ，
+"
+440,modern2poem: 主 帅 帐 中 摆 酒 为 归 客 饯 行 ，,generated:,"中 军 置 酒 饮 归 客 ，
+"
+441,modern2poem: 霜 蹄 骏 马 蹴 踏 在 长 楸 大 道 间 ，,generated:,"霜 蹄 蹴 踏 长 楸 间 ，
+"
+442,modern2poem: 眼 前 分 明 浮 现 复 道 蒙 恩 受 宠 时 。,generated:,"分 明 复 道 奉 恩 时 。
+"
+443,modern2poem: 千 百 年 来 只 看 见 悠 悠 的 白 云 。,generated:,"白 云 千 载 空 悠 悠 。
+"
+444,modern2poem: 聚 首 如 胶 似 漆 作 别 却 象 无 情 ；,generated:,"多 情 却 似 总 无 情 ，
+"
+445,modern2poem: 俯 视 江 畔 的 沙 洲 好 比 是 弯 月 。,generated:,"江 畔 洲 如 月 。
+"
+446,modern2poem: 巫 峡 猿 猴 悲 啼 令 人 伤 心 流 泪 ，,generated:,"巫 峡 啼 猿 数 行 泪 ，
+"
+447,modern2poem: 没 有 听 完 热 泪 就 纷 纷 下 落 。,generated:,"不 能 听 终 泪 如 雨 。
+"
+448,modern2poem: 烟 霭 中 鸟 儿 刚 归 巢 安 息 。,generated:,"烟 鸟 栖 初 定 。
+"
+449,modern2poem: 乐 人 就 像 独 行 于 暴 风 之 中 。,generated:,"长 飙 风 中 自 来 往 。
+"
+450,modern2poem: 瑟 瑟 的 秋 风 吹 动 梧 桐 树 叶 ， 送 来 阵 阵 寒 意 ， 江 上 吹 来 秋 风 ， 使 出 门 在 外 的 我 不 禁 思 念 起 自 己 的 家 乡 。,generated:,"萧 萧 梧 叶 送 寒 声 ， 江 上 秋 风 动 客 情 。
+"
+451,modern2poem: 迎 面 飞 舞 而 来 的 花 瓣 呢 。,generated:,"对 面 即 飞 花 。
+"
+452,modern2poem: 何 处 去 寻 找 武 侯 诸 葛 亮 的 祠 堂 ？,generated:,"丞 相 祠 堂 何 处 寻 ，
+"
+453,modern2poem: 不 要 买 下 沃 洲 山 ，,generated:,"莫 买 沃 洲 山 ，
+"
+454,modern2poem: 驾 车 马 徐 徐 而 去 从 容 悠 闲 。,generated:,"车 马 去 闲 闲 。
+"
+455,modern2poem: 有 位 卖 炭 的 老 翁 ， 整 年 在 南 山 里 砍 柴 烧 炭 。,generated:,"卖 炭 翁 ， 伐 薪 烧 炭 南 山 中 。
+"
+456,modern2poem: 树 叶 芳 香 曾 经 招 来 往 宿 鸾 凤 。,generated:,"香 叶 终 经 宿 鸾 凤 。
+"
+457,modern2poem: 早 晨 跟 着 天 子 的 仪 仗 入 朝 ， 晚 上 身 染 御 炉 的 香 气 回 归 。,generated:,"晓 随 天 仗 入 ， 暮 惹 御 香 归 。
+"
+458,modern2poem: 有 时 独 自 将 天 上 孤 云 眺 望 。,generated:,"有 时 空 望 孤 云 高 。
+"
+459,modern2poem: 吹 着 箫 打 起 鼓 春 社 的 日 子 已 经 接 近 ，,generated:,"箫 鼓 追 随 春 社 近 ，
+"
+460,modern2poem: 进 入 黄 花 川 游 览 ，,generated:,"言 入 黄 花 川 ，
+"
+461,modern2poem: 好 比 晨 露 转 瞬 即 逝 ，,generated:,"譬 如 朝 露 ，
+"
+462,modern2poem: 月 光 如 水 映 照 江 畔 一 叶 孤 舟 。,generated:,"月 照 一 孤 舟 。
+"
+463,modern2poem: 四 更 天 初 至 时 ， 北 风 带 来 一 场 大 雪 ； 这 上 天 赐 给 我 们 的 瑞 雪 正 好 在 除 夕 之 夜 到 来 ， 兆 示 着 来 年 的 丰 收 。,generated:,"北 风 吹 雪 四 更 初 ， 嘉 瑞 天 教 及 岁 除 。
+"
+464,modern2poem: 忧 心 如 焚 ， 饥 渴 交 加 实 在 难 忍 。,generated:,"忧 心 烈 烈 ， 载 饥 载 渴 。
+"
+465,modern2poem: 还 没 有 停 止 征 调 函 谷 关 以 西 的 士 兵 。,generated:,"未 休 关 西 卒 。
+"
+466,modern2poem: 道 路 泥 泞 难 行 走 ， 又 饥 又 渴 真 劳 累 。,generated:,"行 道 迟 迟 ， 载 渴 载 饥 。
+"
+467,modern2poem: 我 的 朋 友 在 凤 翔 府 任 职 从 事 ， 曾 经 为 我 设 计 挖 掘 石 鼓 坑 窝 。,generated:,"故 人 从 军 在 右 辅 ， 为 我 度 量 掘 臼 科 。
+"
+468,modern2poem: 远 看 天 边 的 树 林 活 象 是 荠 菜 ， 俯 视 江 畔 的 沙 洲 好 比 是 弯 月 。,generated:,"天 边 树 若 荠 ， 江 畔 洲 如 月 。
+"
+469,modern2poem: 画 技 最 精 妙 传 神 只 数 江 都 王 。,generated:,"神 妙 独 数 江 都 王 。
+"
+470,modern2poem: 你 如 同 谢 公 最 受 偏 爱 的 女 儿 ， 嫁 给 我 这 个 贫 士 事 事 不 顺 利 。,generated:,"谢 公 最 小 偏 怜 女 ， 自 嫁 黔 娄 百 事 乖 。
+"
+471,modern2poem: 只 要 看 看 历 来 那 些 负 盛 名 的 人 ，,generated:,"但 看 古 来 盛 名 下 ，
+"
+472,modern2poem: 因 而 忧 愁 容 颜 衰 老 。,generated:,"坐 愁 红 颜 老 。
+"
+473,modern2poem: 连 父 母 也 不 能 孝 顺 服 侍 ， 更 不 能 顾 念 那 儿 女 妻 子 。,generated:,"父 母 且 不 顾 ， 何 言 子 与 妻 ！
+"
+474,modern2poem: 孤 云 陪 伴 着 野 鹤 ， 怎 么 能 在 人 间 居 住 。,generated:,"孤 云 将 野 鹤 ， 岂 向 人 间 住 。
+"
+475,modern2poem: 辽 东 少 妇 年 方 十 五 ， 她 弹 熟 了 琵 琶 能 歌 善 舞 。,generated:,"辽 东 小 妇 年 十 五 ， 惯 弹 琵 琶 解 歌 舞 。
+"
+476,modern2poem: 功 成 不 居 愿 辞 归 ，,generated:,"功 遂 辞 归 ，
+"
+477,modern2poem: 东 望 家 乡 路 程 又 远 又 长 ， 热 泪 湿 双 袖 还 不 断 流 淌 。,generated:,"故 园 东 望 路 漫 漫 ， 双 袖 龙 钟 泪 不 干 。
+"
+478,modern2poem: 刚 刚 反 复 吟 诵 你 送 我 的 佳 句 ，,generated:,"向 来 吟 秀 句 ，
+"
+479,modern2poem: 若 肯 邀 请 隔 壁 的 老 翁 一 同 对 饮 ，,generated:,"肯 与 邻 翁 相 对 饮 ，
+"
+480,modern2poem: 宽 解 衣 带 对 着 松 风 乘 凉 ， 山 月 高 照 正 好 弄 弦 弹 琴 。,generated:,"松 风 吹 解 带 ， 山 月 照 弹 琴 。
+"
+481,modern2poem: 狭 窄 的 山 径 草 木 丛 生 ， 夜 露 沾 湿 了 我 的 衣 。,generated:,"道 狭 草 木 长 ， 夕 露 沾 我 衣 。
+"
+482,modern2poem: 听 晚 蝉 声 声 愁 绪 更 添 。,generated:,"闻 蝉 但 益 悲 。
+"
+483,modern2poem: 只 觉 得 酒 筵 上 要 笑 笑 不 出 声 。,generated:,"唯 觉 樽 前 笑 不 成 。
+"
+484,modern2poem: 新 年 来 临 思 乡 之 心 更 切 ，,generated:,"乡 心 新 岁 切 ，
+"
+485,modern2poem: 又 饥 又 渴 真 劳 累 。,generated:,"载 渴 载 饥 。
+"
+486,modern2poem: 长 安 城 内 一 片 月 光 ，,generated:,"长 安 一 片 月 ，
+"
+487,modern2poem: 道 路 泥 泞 难 行 走 ，,generated:,"行 道 迟 迟 ，
+"
+488,modern2poem: 春 草 环 绕 道 院 闲 门 。,generated:,"春 草 闭 闲 门 。
+"
+489,modern2poem: 白 雪 也 嫌 春 色 来 得 太 晚 了 ，,generated:,"白 雪 却 嫌 春 色 晚 ，
+"
+490,modern2poem: 韩 干 只 画 外 表 画 不 出 内 在 精 神 ，,generated:,"干 惟 画 肉 不 画 骨 ，
+"
+491,modern2poem: 悲 对 秋 景 感 慨 万 里 漂 泊 常 年 为 客 ， 一 生 当 中 疾 病 缠 身 今 日 独 上 高 台 。,generated:,"万 里 悲 秋 常 作 客 ， 百 年 多 病 独 登 台 。
+"
+492,modern2poem: 跋 涉 在 道 路 崎 岖 又 遥 远 的 三 巴 路 上 ， 客 居 在 万 里 之 外 的 危 险 地 方 。,generated:,"迢 递 三 巴 路 ， 羁 危 万 里 身 。
+"
+493,modern2poem: 上 战 场 面 对 着 刀 山 剑 树 ，,generated:,"弃 身 锋 刃 端 ，
+"
+494,modern2poem: 山 中 砍 柴 人 差 不 多 走 尽 ，,generated:,"樵 人 归 欲 尽 ，
+"
+495,modern2poem: 宫 女 搀 扶 起 她 如 出 水 芙 蓉 软 弱 娉 婷 ， 由 此 开 始 得 到 皇 帝 的 恩 宠 。,generated:,"侍 儿 扶 起 娇 无 力 ， 始 是 新 承 恩 泽 时 。
+"
+496,modern2poem: 拉 开 弓 如 满 月 左 右 射 击 ，,generated:,"控 弦 破 左 的 ，
+"
+497,modern2poem: 其 中 有 几 位 都 是 后 妃 的 亲 戚 ， 里 面 有 虢 国 和 秦 国 二 位 夫 人 。,generated:,"就 中 云 幕 椒 房 亲 ， 赐 名 大 国 虢 与 秦 。
+"
+498,modern2poem: 一 箭 箭 中 靶 心 不 差 毫 厘 。,generated:,"右 发 摧 月 支 。
+"
+499,modern2poem: 贾 谊 才 能 ， 确 实 高 明 无 人 能 及 。,generated:,"贾 生 才 调 更 无 伦 。
+"
+500,modern2poem: 傍 晚 辕 门 前 大 雪 落 个 不 停 ， 红 旗 冻 僵 了 风 也 无 法 牵 引 。,generated:,"纷 纷 暮 雪 下 辕 门 ， 风 掣 红 旗 冻 不 翻 。
+"
+501,modern2poem: 鸡 声 嘹 亮 ， 茅 草 店 沐 浴 着 晓 月 的 余 辉 ； 足 迹 依 稀 ， 木 板 桥 覆 盖 着 早 春 的 寒 霜 。,generated:,"鸡 声 茅 店 月 ， 人 迹 板 桥 霜 。
+"
+502,modern2poem: 于 是 道 士 尽 力 去 寻 找 贵 妃 的 魂 魄 。,generated:,"遂 教 方 士 殷 勤 觅 。
+"
+503,modern2poem: 明 月 照 向 城 头 乌 鸦 纷 飞 ，,generated:,"月 照 城 头 乌 半 飞 ，
+"
+504,modern2poem: 望 着 你 的 小 船 驶 向 茫 茫 云 水 ，,generated:,"望 君 烟 水 阔 ，
+"
+505,modern2poem: 穿 上 衣 服 推 开 枕 头 出 了 睡 帐 ， 珠 帘 与 银 饰 的 屏 风 接 连 不 断 地 打 开 。,generated:,"揽 衣 推 枕 起 徘 徊 ， 珠 箔 银 屏 迤 逦 开 。
+"
+506,modern2poem: 蹬 踏 梯 道 盘 旋 空 中 。,generated:,"磴 道 盘 虚 空 。
+"
+507,modern2poem: 故 乡 和 亲 人 远 在 千 里 之 外 ，,generated:,"故 国 三 千 里 ，
+"
+508,modern2poem: 十 步 之 内 ， 稳 杀 一 人 ， 千 里 关 隘 ， 不 可 留 行 。,generated:,"十 步 杀 一 人 ， 千 里 不 留 行 。
+"
+509,modern2poem: 千 户 万 户 都 在 捣 衣 。,generated:,"万 户 捣 衣 声 。
+"
+510,modern2poem: 山 峦 重 叠 水 流 曲 折 正 担 心 无 路 可 走 ，,generated:,"山 重 水 复 疑 无 路 ，
+"
+511,modern2poem: 宽 解 衣 带 对 着 松 风 乘 凉 ，,generated:,"松 风 吹 解 带 ，
+"
+512,modern2poem: 嵌 玉 的 楼 台 与 镶 金 的 宫 殿 每 日 都 有 新 的 赋 艳 词 的 曲 。,generated:,"玉 楼 金 殿 艳 歌 新 。
+"
+513,modern2poem: 主 帅 帐 中 摆 酒 为 归 客 饯 行 ， 胡 琴 琵 琶 羌 笛 合 奏 来 助 兴 。,generated:,"中 军 置 酒 饮 归 客 ， 胡 琴 琵 琶 与 羌 笛 。
+"
+514,modern2poem: 换 来 的 只 是 西 域 葡 萄 送 汉 家 。,generated:,"空 见 蒲 桃 入 汉 家 。
+"
+515,modern2poem: 我 也 想 要 谢 绝 世 俗 ， 来 与 西 山 鸾 鹤 合 群 。,generated:,"余 亦 谢 时 去 ， 西 山 鸾 鹤 群 。
+"
+516,modern2poem: 思 乡 的 游 客 人 人 悲 伤 落 泪 。,generated:,"远 客 思 乡 皆 泪 垂 。
+"
+517,modern2poem: 吹 着 箫 打 起 鼓 春 社 的 日 子 已 经 接 近 ， 村 民 们 衣 冠 简 朴 古 代 风 气 仍 然 保 存 。,generated:,"箫 鼓 追 随 春 社 近 ， 衣 冠 简 朴 古 风 存 。
+"
+518,modern2poem: 正 要 带 领 轻 骑 兵 去 追 赶 ， 大 雪 纷 飞 落 满 了 身 上 的 弓 刀 。,generated:,"欲 将 轻 骑 逐 ， 大 雪 满 弓 刀 。
+"
+519,modern2poem: 韩 干 只 画 外 表 画 不 出 内 在 精 神 ， 常 使 骅 骝 好 马 的 生 气 凋 敝 失 丧 。,generated:,"干 惟 画 肉 不 画 骨 ， 忍 使 骅 骝 气 凋 丧 。
+"
+520,modern2poem: 地 里 野 草 茂 盛 豆 苗 豌 稀 。,generated:,"草 盛 豆 苗 稀 。
+"
+521,modern2poem: 淡 淡 月 光 泻 在 水 上 泄 在 树 上 ，,generated:,"清 辉 澹 水 木 ，
+"
+522,modern2poem: 皇 恩 浩 荡 如 果 准 许 留 在 太 学 ， 诸 生 就 能 钻 研 解 说 一 起 切 蹉 。,generated:,"圣 恩 若 许 留 太 学 ， 诸 生 讲 解 得 切 磋 。
+"
+523,modern2poem: 你 没 看 见 拼 杀 在 沙 场 战 斗 多 惨 苦 ， 现 在 还 在 思 念 有 勇 有 谋 的 李 将 军 。,generated:,"君 不 见 沙 场 征 战 苦 ， 至 今 犹 忆 李 将 军 。
+"
+524,modern2poem: 有 锁 纽 的 金 蟾 香 炉 ， 香 烟 缭 绕 飘 逸 ， 状 似 玉 虎 的 辘 轳 ， 牵 引 绳 索 汲 井 水 。,generated:,"金 蟾 啮 锁 烧 香 入 ， 玉 虎 牵 丝 汲 井 回 。
+"
+525,modern2poem: 那 盛 开 着 的 是 什 么 花 ？,generated:,"彼 尔 维 何 ？
+"
+526,modern2poem: 主 人 摆 酒 今 晚 大 家 欢 聚 ，,generated:,"主 人 有 酒 欢 今 夕 ，
+"
+527,modern2poem: 独 自 抚 琴 站 在 山 路 等 你 。,generated:,"孤 琴 候 萝 径 。
+"
+528,modern2poem: 秋 风 吹 起 ， 淮 南 已 树 木 凋 尽 ， 楚 地 山 头 的 落 叶 想 必 更 多 。,generated:,"淮 南 木 落 楚 山 多 。
+"
+529,modern2poem: 中 央 主 峰 把 终 南 东 西 隔 开 ， 各 山 间 山 谷 迥 异 阴 晴 多 变 。,generated:,"分 野 中 峰 变 ， 阴 晴 众 壑 殊 。
+"
+530,modern2poem: 失 去 的 时 日 实 在 太 多 ！,generated:,"去 日 苦 多 。
+"
+531,modern2poem: 三 分 天 下 是 他 苦 心 筹 划 的 结 果 ， 他 犹 如 展 翅 高 翔 在 云 霄 的 鸾 凤 。,generated:,"三 分 割 据 纡 筹 策 ， 万 古 云 霄 一 羽 毛 。
+"
+532,modern2poem: 我 们 兄 弟 也 因 此 流 离 失 散 ，,generated:,"兄 弟 离 散 ，
+"
+533,modern2poem: 君 王 终 日 观 看 却 百 看 不 厌 。,generated:,"尽 日 君 王 看 不 足 。
+"
+534,modern2poem: 千 山 万 岭 好 像 波 涛 奔 赴 荆 门 ， 王 昭 君 生 长 的 乡 村 至 今 留 存 。,generated:,"群 山 万 壑 赴 荆 门 ， 生 长 明 妃 尚 有 村 。
+"
+535,modern2poem: 桃 花 怒 放 千 万 朵 ，,generated:,"桃 之 夭 夭 ，
+"
+536,modern2poem: 昭 阳 殿 里 的 姻 缘 早 已 隔 断 ，,generated:,"昭 阳 殿 里 恩 爱 绝 ，
+"
+537,modern2poem: 不 久 后 风 停 了 天 空 上 的 云 像 墨 一 样 黑 ，,generated:,"俄 顷 风 定 云 墨 色 ，
+"
+538,modern2poem: 离 别 后 如 浮 云 飘 流 不 定 ，,generated:,"浮 云 一 别 后 ，
+"
+539,modern2poem: 八 月 秋 深 狂 风 大 声 吼 叫 ， 狂 风 卷 走 了 我 屋 顶 上 好 几 层 茅 草 。,generated:,"八 月 秋 高 风 怒 号 ， 卷 我 屋 上 三 重 茅 。
+"
+540,modern2poem: 就 在 今 夜 的 曲 中 ， 听 到 故 乡 的 《 折 杨 柳 》 ，,generated:,"此 夜 曲 中 闻 折 柳 ，
+"
+541,modern2poem: 家 家 怀 念 戍 边 之 人 。,generated:,"总 是 玉 关 情 。
+"
+542,modern2poem: 好 像 地 上 泛 起 了 一 层 霜 。,generated:,"疑 是 地 上 霜 。
+"
+543,modern2poem: 古 木 参 天 却 没 有 人 行 路 径 ，,generated:,"古 木 无 人 径 ，
+"
+544,modern2poem: 它 虽 有 苦 心 也 难 免 蝼 蚁 侵 蚀 ， 树 叶 芳 香 曾 经 招 来 往 宿 鸾 凤 。,generated:,"苦 心 岂 免 容 蝼 蚁 ， 香 叶 终 经 宿 鸾 凤 。
+"
+545,modern2poem: 轻 歌 曼 舞 多 合 拍 管 弦 旋 律 尽 传 神 ， 君 王 终 日 观 看 却 百 看 不 厌 。,generated:,"缓 歌 慢 舞 凝 丝 竹 ， 尽 日 君 王 看 不 足 。
+"
+546,modern2poem: 眼 下 我 心 情 不 佳 是 思 念 岳 阳 ， 身 体 想 要 奋 飞 疾 病 逼 我 卧 床 。,generated:,"今 我 不 乐 思 岳 阳 ， 身 欲 奋 飞 病 在 床 。
+"
+547,modern2poem: 什 么 地 方 有 人 在 明 月 照 耀 的 楼 上 相 思 ？,generated:,"何 处 相 思 明 月 楼 ？
+"
+548,modern2poem: 月 亮 已 经 沦 没 而 迷 惑 不 清 ，,generated:,"阴 精 此 沦 惑 ，
+"
+549,modern2poem: 一 连 喝 干 十 几 杯 还 没 有 醉 意 ， 令 我 感 动 你 对 老 友 情 深 意 长 。,generated:,"十 觞 亦 不 醉 ， 感 子 故 意 长 。
+"
+550,modern2poem: 不 觉 乌 鸦 呱 呱 啼 叫 天 已 渐 亮 。,generated:,"不 觉 已 鸣 鸦 。
+"
+551,modern2poem: 拉 开 弓 如 满 月 左 右 射 击 ， 一 箭 箭 中 靶 心 不 差 毫 厘 。,generated:,"控 弦 破 左 的 ， 右 发 摧 月 支 。
+"
+552,modern2poem: 世 路 艰 难 ， 我 只 得 归 去 啦 ！,generated:,"行 路 难 ， 归 去 来 ！
+"
+553,modern2poem: 来 与 西 山 鸾 鹤 合 群 。,generated:,"西 山 鸾 鹤 群 。
+"
+554,modern2poem: 只 是 因 为 您 的 缘 故 ， 让 我 沉 痛 吟 诵 至 今 。,generated:,"但 为 君 故 ， 沉 吟 至 今 。
+"
+555,modern2poem: 与 吐 蕃 接 壤 的 白 雪 戍 是 那 么 的 遥 远 ，,generated:,"白 雪 关 山 远 ，
+"
+556,modern2poem: 明 早 我 将 挂 起 船 帆 离 开 牛 渚 ， 这 里 只 有 满 天 枫 叶 飘 落 纷 纷 。,generated:,"明 朝 挂 帆 席 ， 枫 叶 落 纷 纷 。
+"
+557,modern2poem: 想 勉 强 跟 着 您 一 同 进 退 ， 无 奈 我 已 衰 老 ， 会 因 病 卧 床 而 解 下 我 这 身 官 袍 。,generated:,"强 欲 从 君 无 那 老 ， 将 因 卧 病 解 朝 衣 。
+"
+558,modern2poem: 深 山 里 何 处 传 来 古 寺 鸣 钟 。,generated:,"深 山 何 处 钟 。
+"
+559,modern2poem: 重 阳 佳 节 咱 们 开 怀 畅 饮 共 醉 。,generated:,"共 醉 重 阳 节 。
+"
+560,modern2poem: 早 就 思 念 你 而 愁 肠 百 结 。,generated:,"是 妾 断 肠 时 。
+"
+561,modern2poem: 御 厨 络 绎 不 绝 送 来 海 味 山 珍 。,generated:,"御 厨 络 绎 送 八 珍 。
+"
+562,modern2poem: 就 像 天 地 间 的 一 只 孤 零 零 的 沙 鸥 。,generated:,"天 地 一 沙 鸥 。
+"
+563,modern2poem: 江 东 亲 友 有 几 人 正 望 眼 欲 穿 ， 等 候 着 你 的 孤 舟 从 天 涯 回 还 。,generated:,"江 上 几 人 在 ， 天 涯 孤 棹 还 。
+"
+564,modern2poem: 香 炉 峰 瀑 布 与 它 遥 遥 相 望 ，,generated:,"香 炉 瀑 布 遥 相 望 ，
+"
+565,modern2poem: 功 成 不 居 愿 辞 归 ， 心 明 无 须 恃 荣 宠 。,generated:,"功 遂 辞 归 ， 临 宠 不 忒 。
+"
+566,modern2poem: 我 独 自 在 旅 馆 里 躺 着 ， 寒 冷 的 灯 光 照 着 我 ， 久 久 难 以 入 眠 。,generated:,"旅 馆 寒 灯 独 不 眠 ， 客 心 何 事 转 凄 然 。
+"
+567,modern2poem: 何 时 才 能 重 新 返 回 西 境 ？,generated:,"何 时 复 西 归 ？
+"
+568,modern2poem: 古 柏 独 立 高 耸 虽 然 盘 踞 得 地 ，,generated:,"落 落 盘 踞 虽 得 地 ，
+"
+569,modern2poem: 令 我 感 动 你 对 老 友 情 深 意 长 。,generated:,"感 子 故 意 长 。
+"
+570,modern2poem: 我 虽 然 很 喜 爱 这 首 古 时 的 曲 调 ，,generated:,"古 调 虽 自 爱 ，
+"
+571,modern2poem: 在 她 们 的 背 后 能 看 见 什 么 呢 ？,generated:,"背 后 何 所 见 ？
+"
+572,modern2poem: 这 桂 花 大 概 是 嫦 娥 撒 下 来 给 予 众 人 的 吧 。,generated:,"应 是 嫦 娥 掷 与 人 。
+"
+573,modern2poem: 但 已 到 了 年 末 仍 不 能 实 现 。,generated:,"岁 亦 莫 止 。
+"
+574,modern2poem: 那 墙 角 的 几 枝 梅 花 ， 冒 着 严 寒 独 自 盛 开 。,generated:,"墙 角 数 枝 梅 ， 凌 寒 独 自 开 。
+"
+575,modern2poem: 悠 然 自 得 啃 食 在 绿 坡 。,generated:,"食 野 之 苹 。
+"
+576,modern2poem: 白 帝 城 边 黄 叶 飘 零 古 木 稀 疏 。,generated:,"白 帝 城 边 古 木 疏 。
+"
+577,modern2poem: 秦 地 的 桑 树 已 叶 翠 枝 绿 。,generated:,"秦 桑 低 绿 枝 。
+"
+578,modern2poem: 人 生 得 意 之 时 就 要 尽 情 的 享 受 欢 乐 ， 不 要 让 金 杯 无 酒 空 对 皎 洁 的 明 月 。,generated:,"人 生 得 意 须 尽 欢 ， 莫 使 金 樽 空 对 月 。
+"
+579,modern2poem: 牛 累 了 ， 人 饿 了 ， 但 太 阳 已 经 升 得 很 高 了 ， 他 们 就 在 集 市 南 门 外 泥 泞 中 歇 息 。,generated:,"牛 困 人 饥 日 已 高 ， 市 南 门 外 泥 中 歇 。
+"
+580,modern2poem: 百 川 奔 腾 着 东 流 到 大 海 ，,generated:,"百 川 东 到 海 ，
+"
+581,modern2poem: 青 鸟 飞 去 衔 起 地 上 的 红 丝 帕 。,generated:,"青 鸟 飞 去 衔 红 巾 。
+"
+582,modern2poem: 为 国 家 解 危 难 奋 勇 献 身 ， 看 死 亡 就 好 像 回 归 故 里 。,generated:,"捐 躯 赴 国 难 ， 视 死 忽 如 归 ！
+"
+583,modern2poem: 自 从 河 南 地 区 经 历 战 乱 ，,generated:,"自 河 南 经 乱 ，
+"
+584,modern2poem: 侵 略 者 一 次 又 一 次 进 犯 内 地 。,generated:,"虏 骑 数 迁 移 。
+"
+585,modern2poem: 原 先 她 是 越 溪 的 一 个 浣 纱 女 ，,generated:,"朝 为 越 溪 女 ，
+"
+586,modern2poem: 没 有 时 间 安 居 休 息 ，,generated:,"不 遑 启 居 ，
+"
+587,modern2poem: 丝 毫 都 很 完 备 一 点 也 无 差 错 。,generated:,"毫 发 尽 备 无 差 讹 。
+"
+588,modern2poem: 早 晨 跟 着 天 子 的 仪 仗 入 朝 ，,generated:,"晓 随 天 仗 入 ，
+"
+589,modern2poem: 等 到 九 九 重 阳 节 到 来 时 ，,generated:,"待 到 重 阳 日 ，
+"
+590,modern2poem: 密 林 之 中 何 人 知 晓 我 在 这 里 ？ 只 有 一 轮 明 月 静 静 与 我 相 伴 。,generated:,"深 林 人 不 知 ， 明 月 来 相 照 。
+"
+591,modern2poem: 牵 马 饮 水 渡 过 了 那 大 河 ， 水 寒 刺 骨 秋 风 如 剑 如 刀 。,generated:,"饮 马 渡 秋 水 ， 水 寒 风 似 刀 。
+"
+592,modern2poem: 九 叠 云 屏 像 锦 绣 云 霞 铺 张 。,generated:,"屏 风 九 叠 云 锦 张 。
+"
+593,modern2poem: 又 像 风 吹 枯 桑 老 柏 沙 沙 响 ，,generated:,"枯 桑 老 柏 寒 飕 飗 ，
+"
+594,modern2poem: 葛 草 长 得 长 又 长 ， 漫 山 遍 谷 都 有 它 ， 藤 叶 茂 密 又 繁 盛 。,generated:,"葛 之 覃 兮 ， 施 于 中 谷 ， 维 叶 萋 萋 。
+"
+595,modern2poem: 因 为 淮 上 有 秀 美 的 秋 山 。,generated:,"淮 上 有 秋 山 。
+"
+596,modern2poem: 黄 鹤 一 去 再 也 没 有 回 来 ，,generated:,"黄 鹤 一 去 不 复 返 ，
+"
+597,modern2poem: 不 久 后 风 停 了 天 空 上 的 云 像 墨 一 样 黑 ， 秋 季 的 天 空 阴 沉 迷 蒙 渐 渐 黑 了 下 来 。,generated:,"俄 顷 风 定 云 墨 色 ， 秋 天 漠 漠 向 昏 黑 。
+"
+598,modern2poem: 月 出 寒 光 高 照 寒 气 直 通 岷 山 。,generated:,"月 出 寒 通 雪 山 白 。
+"
+599,modern2poem: 孤 身 一 人 负 影 立 。,generated:,"负 影 只 立 。
+"
+600,modern2poem: 男 子 汉 当 以 国 事 为 重 ， 从 军 远 征 ， 从 小 就 在 幽 燕 纵 横 驰 骋 。,generated:,"男 儿 事 长 征 ， 少 小 幽 燕 客 。
+"
+601,modern2poem: 你 如 同 谢 公 最 受 偏 爱 的 女 儿 ，,generated:,"谢 公 最 小 偏 怜 女 ，
+"
+602,modern2poem: 明 早 我 将 挂 起 船 帆 离 开 牛 渚 ，,generated:,"明 朝 挂 帆 席 ，
+"
+603,modern2poem: 自 从 和 老 友 在 江 海 分 别 ， 隔 山 隔 水 已 度 过 多 少 年 。,generated:,"故 人 江 海 别 ， 几 度 隔 山 川 。
+"
+604,modern2poem: 白 云 依 偎 安 静 沙 洲 ，,generated:,"白 云 依 静 渚 ，
+"
+605,modern2poem: 楼 上 花 枝 取 笑 我 依 然 独 眠 。,generated:,"楼 上 花 枝 笑 独 眠 。
+"
+606,modern2poem: 这 种 乐 器 本 来 是 出 自 龟 兹 。,generated:,"此 乐 本 自 龟 兹 出 。
+"
+607,modern2poem: 如 今 这 地 方 还 是 鄹 县 的 城 邑 ， 你 终 被 安 葬 在 了 出 生 的 土 地 ， 然 而 你 的 旧 宅 曾 被 后 人 毁 坏 ， 改 建 为 鲁 王 宫 。,generated:,"地 犹 鄹 氏 邑 ， 宅 即 鲁 王 宫 。
+"
+608,modern2poem: 假 如 东 风 不 给 周 瑜 以 方 便 ， 结 局 恐 怕 是 曹 操 取 胜 ， 二 乔 被 关 进 铜 雀 台 了 。,generated:,"东 风 不 与 周 郎 便 ， 铜 雀 春 深 锁 二 乔 。
+"
+609,modern2poem: 人 生 得 意 之 时 就 要 尽 情 的 享 受 欢 乐 ，,generated:,"人 生 得 意 须 尽 欢 ，
+"
+610,modern2poem: 淮 南 子 有 一 叶 落 而 知 岁 暮 之 句 ；,generated:,"淮 南 一 叶 下 ，
+"
+611,modern2poem: 君 臣 相 顾 泪 湿 衣 衫 ，,generated:,"君 臣 相 顾 尽 沾 衣 ，
+"
+612,modern2poem: 月 光 明 亮 星 光 稀 疏 ， 一 群 寻 巢 乌 鹊 向 南 飞 去 。,generated:,"月 明 星 稀 ， 乌 鹊 南 飞 。
+"
+613,modern2poem: 初 升 的 太 阳 照 耀 着 千 家 万 户 ，,generated:,"千 门 万 户 曈 曈 日 ，
+"
+614,modern2poem: 右 手 拿 着 捡 的 麦 穗 ，,generated:,"右 手 秉 遗 穗 ，
+"
+615,modern2poem: 岁 月 如 流 水 一 晃 过 十 年 。,generated:,"流 水 十 年 间 。
+"
+616,modern2poem: 熬 过 了 冬 天 又 经 历 一 个 新 春 。,generated:,"经 冬 复 历 春 。
+"
+617,modern2poem: 红 旗 半 卷 ， 援 军 赶 赴 易 水 ； 夜 寒 霜 重 ， 鼓 声 郁 闷 低 沉 。,generated:,"半 卷 红 旗 临 易 水 ， 霜 重 鼓 寒 声 不 起 。
+"
+618,modern2poem: 特 别 敏 感 自 然 物 候 转 化 更 新 。,generated:,"偏 惊 物 候 新 。
+"
+619,modern2poem: 应 投 诗 于 汨 罗 江 诉 说 冤 屈 与 不 平 。,generated:,"投 诗 赠 汨 罗 。
+"
+620,modern2poem: 如 今 你 们 同 我 都 已 经 老 去 ， 都 一 样 是 这 般 步 履 龙 钟 。,generated:,"今 日 龙 钟 人 共 弃 ，
+"
+621,modern2poem: 只 是 因 为 您 的 缘 故 ，,generated:,"但 为 君 故 ，
+"
+622,modern2poem: 黄 昏 里 吹 来 萧 瑟 凉 风 ，,generated:,"日 夕 凉 风 至 ，
+"
+623,modern2poem: 这 时 屋 子 里 都 是 霉 烂 的 米 气 ；,generated:,"时 则 为 米 气 ；
+"
+624,modern2poem: 远 处 雪 岭 那 边 朝 廷 的 使 臣 还 稽 留 天 外 未 归 ，,generated:,"雪 岭 未 归 天 外 使 ，
+"
+625,modern2poem: 处 死 杨 妃 也 是 玄 宗 英 明 决 策 ，,generated:,"终 是 圣 明 天 子 事 ，
+"
+626,modern2poem: 彼 此 久 别 重 逢 谈 心 宴 饮 ， 争 着 将 往 日 的 情 谊 诉 说 。,generated:,"契 阔 谈 讌 ， 心 念 旧 恩 。
+"
+627,modern2poem: 一 个 小 孩 撑 着 小 船 ，,generated:,"小 娃 撑 小 艇 ，
+"
+628,modern2poem: 那 美 丽 贤 淑 的 女 子 ， 奏 起 琴 瑟 来 亲 近 她 。,generated:,"窈 窕 淑 女 ， 琴 瑟 友 之 。
+"
+629,modern2poem: 望 你 孝 敬 长 辈 遵 守 妇 道 ， 仪 容 举 止 都 要 符 合 潮 流 。,generated:,"孝 恭 遵 妇 道 ， 容 止 顺 其 猷 。
+"
+630,modern2poem: 牧 童 骑 在 黄 牛 背 上 ，,generated:,"牧 童 骑 黄 牛 ，
+"
+631,modern2poem: 千 里 迢 迢 可 否 共 赏 醉 人 婵 娟 ？,generated:,"千 里 共 如 何 ，
+"
+632,modern2poem: 不 如 做 一 名 隐 居 的 钓 叟 。,generated:,"愿 为 持 竿 叟 。
+"
+633,modern2poem: 但 在 今 天 人 们 大 多 已 不 去 弹 奏 了 。,generated:,"今 人 多 不 弹 。
+"
+634,modern2poem: 悲 对 秋 景 感 慨 万 里 漂 泊 常 年 为 客 ，,generated:,"万 里 悲 秋 常 作 客 ，
+"
+635,modern2poem: 频 频 挥 手 惜 别 泪 水 沾 湿 佩 巾 。,generated:,"挥 手 泪 沾 巾 。
+"
+636,modern2poem: 东 望 家 乡 路 程 又 远 又 长 ，,generated:,"故 园 东 望 路 漫 漫 ，
+"
+637,modern2poem: 从 南 山 截 段 竹 筒 做 成 觱 篥 ，,generated:,"南 山 截 竹 为 觱 篥 ，
+"
+638,modern2poem: 只 有 蜡 烛 残 光 照 着 孤 单 的 我 。,generated:,"独 宿 江 城 蜡 炬 残 。
+"
+639,modern2poem: 现 在 还 在 思 念 有 勇 有 谋 的 李 将 军 。,generated:,"至 今 犹 忆 李 将 军 。
+"
+640,modern2poem: 偷 偷 地 采 了 白 莲 回 来 。,generated:,"偷 采 白 莲 回 。
+"
+641,modern2poem: 便 同 你 一 起 在 门 前 做 折 花 的 游 戏 。,generated:,"折 花 门 前 剧 。
+"
+642,modern2poem: 表 现 为 拼 死 抵 抗 的 嵇 侍 中 的 血 。,generated:,"为 嵇 侍 中 血 。
+"
+643,modern2poem: 太 液 池 边 芙 蓉 仍 在 未 央 宫 中 垂 柳 未 改 。,generated:,"太 液 芙 蓉 未 央 柳 。
+"
+644,modern2poem: 珠 帘 与 银 饰 的 屏 风 接 连 不 断 地 打 开 。,generated:,"珠 箔 银 屏 迤 逦 开 。
+"
+645,modern2poem: 阳 光 照 耀 下 的 汉 阳 树 木 清 晰 可 见 ，,generated:,"晴 川 历 历 汉 阳 树 ，
+"
+646,modern2poem: 因 为 看 到 月 亮 而 有 所 感 触 ， 便 随 性 写 成 诗 一 首 来 记 录 感 想 ， 寄 给 在 浮 梁 的 大 哥 、 在 於 潜 的 七 哥 ， 在 乌 江 的 十 五 哥 和 在 符 离 、 下 邽 的 弟 弟 妹 妹 们 看 。,generated:,"因 望 月 有 感 ， 聊 书 所 怀 ， 寄 上 浮 梁 大 兄 、 於 潜 七 兄 、 乌 江 十 五 兄 ， 兼 示 符 离 及 下 邽 弟 妹 。
+"
+647,modern2poem: 喝 醉 酒 后 还 要 和 着 金 甲 跳 舞 ， 欢 腾 的 擂 鼓 声 震 动 了 周 围 的 山 川 。,generated:,"醉 和 金 甲 舞 ， 雷 鼓 动 山 川 。
+"
+648,modern2poem: 三 分 天 下 是 他 苦 心 筹 划 的 结 果 ，,generated:,"三 分 割 据 纡 筹 策 ，
+"
+649,modern2poem: 朱 亥 与 侯 嬴 真 千 秋 万 古 二 壮 士 ，,generated:,"千 秋 二 壮 士 ，
+"
+650,modern2poem: 闲 静 无 事 ， 与 农 人 的 菜 圃 为 邻 ， 有 的 时 候 就 像 个 山 林 中 的 隐 士 。,generated:,"闲 依 农 圃 邻 ， 偶 似 山 林 客 。
+"
+651,modern2poem: 孤 云 陪 伴 着 野 鹤 ，,generated:,"孤 云 将 野 鹤 ，
+"
+652,modern2poem: 偶 然 在 林 间 遇 见 个 把 乡 村 父 老 ， 偶 与 他 谈 笑 聊 天 每 每 忘 了 还 家 。,generated:,"偶 然 值 林 叟 ， 谈 笑 无 还 期 。
+"
+653,modern2poem: 喝 醉 酒 酣 睡 不 知 天 已 黄 昏 ， 有 时 独 自 将 天 上 孤 云 眺 望 。,generated:,"醉 卧 不 知 白 日 暮 ， 有 时 空 望 孤 云 高 。
+"
+654,modern2poem: 想 托 个 良 媒 说 亲 更 感 到 悲 伤 。,generated:,"拟 托 良 媒 益 自 伤 。
+"
+655,modern2poem: 风 光 与 其 它 季 节 确 实 不 同 。,generated:,"风 光 不 与 四 时 同 。
+"
+656,modern2poem: 他 犹 如 展 翅 高 翔 在 云 霄 的 鸾 凤 。,generated:,"万 古 云 霄 一 羽 毛 。
+"
+657,modern2poem: 唐 明 皇 爱 好 女 色 一 直 在 寻 找 绝 色 美 女 ，   统 治 全 国 多 年 竟 找 不 到 一 个 称 心 的 。,generated:,"汉 皇 重 色 思 倾 国 ， 御 宇 多 年 求 不 得 。
+"
+658,modern2poem: 千 山 万 岭 好 像 波 涛 奔 赴 荆 门 ，,generated:,"群 山 万 壑 赴 荆 门 ，
+"
+659,modern2poem: 借 问 当 地 之 人 何 处 买 酒 浇 愁 ？ 牧 童 笑 而 不 答 遥 指 杏 花 山 村 。,generated:,"借 问 酒 家 何 处 有 ， 牧 童 遥 指 杏 花 村 。
+"
+660,modern2poem: 关 内 一 带 漕 运 受 阻 致 使 饥 荒 四 起 ，,generated:,"关 内 阻 饥 ，
+"
+661,modern2poem: 什 么 时 候 你 能 载 酒 到 这 里 来 ， 重 阳 佳 节 咱 们 开 怀 畅 饮 共 醉 。,generated:,"何 当 载 酒 来 ， 共 醉 重 阳 节 。
+"
+662,modern2poem: 说 回 家 了 回 家 了 ，,generated:,"曰 归 曰 归 ，
+"
+663,modern2poem: 百 川 奔 腾 着 东 流 到 大 海 ， 何 时 才 能 重 新 返 回 西 境 ？,generated:,"百 川 东 到 海 ， 何 时 复 西 归 ？
+"
+664,modern2poem: 我 的 朋 友 在 凤 翔 府 任 职 从 事 ，,generated:,"故 人 从 军 在 右 辅 ，
+"
+665,modern2poem: 连 父 母 也 不 能 孝 顺 服 侍 ，,generated:,"父 母 且 不 顾 ，
+"
+666,modern2poem: 风 急 天 高 猿 猴 啼 叫 显 得 十 分 悲 哀 ， 水 清 沙 白 的 河 洲 上 有 鸟 儿 在 盘 旋 。,generated:,"风 急 天 高 猿 啸 哀 ， 渚 清 沙 白 鸟 飞 回 。
+"
+667,modern2poem: 泪 水 湿 透 了 罗 巾 无 法 入 睡 好 梦 难 成 ，,generated:,"泪 湿 罗 巾 梦 不 成 ，
+"
+668,modern2poem: 当 年 象 后 羿 飞 箭 射 雀 无 目 ，,generated:,"昔 时 飞 箭 无 全 目 ，
+"
+669,modern2poem: 一 群 寻 巢 乌 鹊 向 南 飞 去 。,generated:,"乌 鹊 南 飞 。
+"
+670,modern2poem: 风 和 日 丽 游 春 在 泗 水 之 滨 ， 无 边 无 际 的 风 光 焕 然 一 新 。,generated:,"胜 日 寻 芳 泗 水 滨 ， 无 边 光 景 一 时 新 。
+"
+671,modern2poem: 兄 弟 姐 妹 都 因 她 列 土 封 侯 ， 杨 家 门 户 生 光 彩 令 人 羡 慕 又 向 往 。,generated:,"姊 妹 弟 兄 皆 列 土 ， 可 怜 光 彩 生 门 户 。
+"
+672,modern2poem: 他 不 知 道 怎 么 掩 藏 踪 迹 ，,generated:,"不 解 藏 踪 迹 ，
+"
+673,modern2poem: 其 后 为 臣 宾 于 虞 ，,generated:,"邈 焉 虞 宾 ，
+"
+674,modern2poem: 最 可 爱 的 是 ， 有 盏 照 亮 心 田 的 佛 灯 ； 航 行 万 里 ， 眼 中 永 远 都 是 灿 烂 光 明 。,generated:,"惟 怜 一 灯 影 ， 万 里 眼 中 明 。
+"
+675,modern2poem: 水 清 沙 白 的 河 洲 上 有 鸟 儿 在 盘 旋 。,generated:,"渚 清 沙 白 鸟 飞 回 。
+"
+676,modern2poem: 竹 子 抓 住 青 山 一 点 也 不 放 松 ，,generated:,"咬 定 青 山 不 放 松 ，
+"
+677,modern2poem: 急 风 胡 乱 地 掀 动 水 中 的 荷 花 ，,generated:,"惊 风 乱 飐 芙 蓉 水 ，
+"
+678,modern2poem: 汉 江 流 经 楚 塞 又 折 入 三 湘 ， 西 起 荆 门 往 东 与 九 江 相 通 。,generated:,"楚 塞 三 湘 接 ， 荆 门 九 派 通 。
+"
+679,modern2poem: 莲 叶 轻 摇 想 是 上 游 荡 下 轻 舟 。,generated:,"莲 动 下 渔 舟 。
+"
+680,modern2poem: 吊 影 伤 情 好 像 离 群 孤 雁 ，,generated:,"吊 影 分 为 千 里 雁 ，
+"
+681,modern2poem: 可 叹 蜀 后 主 刘 禅 那 样 的 昏 君 ， 仍 然 在 祠 庙 中 享 受 祭 祀 ， 黄 昏 的 时 候 我 也 姑 且 吟 诵 那 《 梁 甫 吟 》 。,generated:,"可 怜 后 主 还 祠 庙 ， 日 暮 聊 为 《 梁 甫 吟 》 。
+"
+682,modern2poem: 怎 堪 忍 受 正 当 玄 鬓 盛 年 的 好 时 光 ，,generated:,"不 堪 玄 鬓 影 ，
+"
+683,modern2poem: 隔 山 隔 水 已 度 过 多 少 年 。,generated:,"几 度 隔 山 川 。
+"
+684,modern2poem: 水 寒 刺 骨 秋 风 如 剑 如 刀 。,generated:,"水 寒 风 似 刀 。
+"
+685,modern2poem: 庭 院 内 没 有 那 尘 杂 干 扰 ，,generated:,"户 庭 无 尘 杂 ，
+"
+686,modern2poem: 这 位 姑 娘 要 出 嫁 ，,generated:诗 此 姑 娘 要 出 嫁 。,"之 子 于 归 ，
+"
+687,modern2poem: 自 从 河 南 地 区 经 历 战 乱 ， 关 内 一 带 漕 运 受 阻 致 使 饥 荒 四 起 ， 我 们 兄 弟 也 因 此 流 离 失 散 ， 各 自 在 一 处 。,generated:,"自 河 南 经 乱 ， 关 内 阻 饥 ， 兄 弟 离 散 ， 各 在 一 处 。
+"
+688,modern2poem: 君 王 从 此 再 也 不 早 朝 了 。,generated:,"从 此 君 王 不 早 朝 。
+"
+689,modern2poem: 衣 衫 被 沾 湿 并 不 可 惜 ． 只 希 望 不 违 背 我 归 耕 田 园 的 心 意 。,generated:,"衣 沾 不 足 惜 ， 但 使 愿 无 违 。
+"
+690,modern2poem: 你 与 沉 冤 的 屈 子 同 命 运 ， 应 投 诗 于 汨 罗 江 诉 说 冤 屈 与 不 平 。,generated:,"应 共 冤 魂 语 ， 投 诗 赠 汨 罗 。
+"
+691,modern2poem: 后 宫 中 妃 嫔 不 下 三 千 人 ，,generated:,"后 宫 佳 丽 三 千 人 ，
+"
+692,modern2poem: 昭 阳 殿 下 响 起 捣 衣 声 声 。,generated:,"昭 阳 殿 下 捣 衣 声 。
+"
+693,modern2poem: 玄 宗 返 回 长 安 杨 贵 妃 早 已 死 ， 旧 时 恩 爱 难 忘 国 家 开 始 振 兴 。,generated:,"玄 宗 回 马 杨 妃 死 ， 云 雨 难 忘 日 月 新 。
+"
+694,modern2poem: 远 看 高 山 色 彩 明 亮 ， 走 近 一 听 水 却 没 有 声 音 。,generated:,"远 看 山 有 色 ， 近 听 水 无 声 。
+"
+695,modern2poem: 她 宛 转 地 拒 绝 了 太 守 的 纠 缠 ， 说 ： 蚕 儿 已 饥 ， 我 该 赶 快 回 去 了 ， 太 守 大 人 ， 且 莫 在 此 耽 搁 您 宝 斑 的 时 间 了 。,generated:,"蚕 饥 妾 欲 去 ， 五 马 莫 留 连 。
+"
+696,modern2poem: 兰 舟 上 的 采 莲 女 把 湖 上 的 荷 花 采 下 来 送 给 游 人 ， 在 细 雨 斜 风 里 ， 她 们 头 上 的 翠 翘 被 打 湿 。,generated:,"献 花 游 女 木 兰 桡 ， 细 雨 斜 风 湿 翠 翘 。
+"
+697,modern2poem: 聚 首 如 胶 似 漆 作 别 却 象 无 情 ； 只 觉 得 酒 筵 上 要 笑 笑 不 出 声 。,generated:,"多 情 却 似 总 无 情 ， 唯 觉 樽 前 笑 不 成 。
+"
+698,modern2poem: 未 免 跪 地 挨 打 有 苦 向 谁 说 。,generated:,"未 免 捶 楚 尘 埃 间 。
+"
+699,modern2poem: 这 里 只 有 满 天 枫 叶 飘 落 纷 纷 。,generated:,"枫 叶 落 纷 纷 。
+"
+700,modern2poem: 白 云 依 偎 安 静 沙 洲 ， 春 草 环 绕 道 院 闲 门 。,generated:,"白 云 依 静 渚 ， 春 草 闭 闲 门 。
+"
+701,modern2poem: 太 真 听 说 君 王 的 使 者 到 了 ，,generated:,"闻 道 汉 家 天 子 使 ，
+"
+702,modern2poem: 然 而 社 会 政 局 毫 无 生 气 终 究 是 一 种 悲 哀 。,generated:,"万 马 齐 喑 究 可 哀 。
+"
+703,modern2poem: 我 坐 在 窗 前 ， 可 以 望 见 西 岭 上 堆 积 着 终 年 不 化 的 积 雪 ， 门 前 停 泊 着 自 万 里 外 的 东 吴 远 行 而 来 的 船 只 。,generated:,"窗 含 西 岭 千 秋 雪 ， 门 泊 东 吴 万 里 船 。
+"
+704,modern2poem: 身 体 想 要 奋 飞 疾 病 逼 我 卧 床 。,generated:,"身 欲 奋 飞 病 在 床 。
+"
+705,modern2poem: 温 和 而 又 恭 顺 ， 为 人 谨 慎 善 良 。,generated:,"终 温 且 惠 ， 淑 慎 其 身 。
+"
+706,modern2poem: 此 夜 投 宿 佛 寺 住 在 高 阁 上 ， 星 月 交 辉 掩 映 山 间 雾 朦 胧 。,generated:,"夜 投 佛 寺 上 高 阁 ， 星 月 掩 映 云 曈 昽 。
+"
+707,modern2poem: 我 家 是 住 在 建 康 的 横 塘 。,generated:,"妾 住 在 横 塘 。
+"
+708,modern2poem: 游 子 像 一 片 白 云 缓 缓 地 离 去 ，,generated:,"白 云 一 片 去 悠 悠 ，
+"
+709,modern2poem: 灯 火 照 耀 着 西 宫 知 道 是 在 夜 饮 ，,generated:,"火 照 西 宫 知 夜 饮 ，
+"
+710,modern2poem: 只 有 狂 雷 炸 响 般 的 巨 大 力 量 才 能 使 中 国 大 地 发 出 勃 勃 生 机 ， 然 而 社 会 政 局 毫 无 生 气 终 究 是 一 种 悲 哀 。,generated:,"九 州 生 气 恃 风 雷 ， 万 马 齐 喑 究 可 哀 。
+"
+711,modern2poem: 边 疆 无 数 士 兵 流 血 形 成 了 海 水 ， 武 皇 开 拓 边 疆 的 念 头 还 没 停 止 。,generated:,"边 庭 流 血 成 海 水 ， 武 皇 开 边 意 未 已 。
+"
+712,modern2poem: 昨 晚 听 到 了 小 雨 淅 淅 淅 沥 沥 落 下 的 声 音 ，,generated:,"昨 夜 一 霎 雨 ，
+"
+713,modern2poem: 独 自 吟 诵 白 头 吟 这 么 哀 怨 的 诗 行 。,generated:,"来 对 白 头 吟 。
+"
+714,modern2poem: 来 来 往 往 张 眼 望 啊 ，,generated:,"挑 兮 达 兮 ，
+"
+715,modern2poem: 处 死 杨 妃 也 是 玄 宗 英 明 决 策 ， 不 然 就 会 步 陈 后 主 亡 国 后 尘 。,generated:,"终 是 圣 明 天 子 事 ， 景 阳 宫 井 又 何 人 。
+"
+716,modern2poem: 半 亩 大 的 方 形 池 塘 像 一 面 镜 子 一 样 打 开 ， 清 澈 明 净 ， 天 光 、 云 影 在 水 面 上 闪 耀 浮 动 。,generated:,"半 亩 方 塘 一 鉴 开 ， 天 光 云 影 共 徘 徊 。
+"
+717,modern2poem: 柏 树 高 耸 云 雾 飘 来 气 接 巫 峡 ， 月 出 寒 光 高 照 寒 气 直 通 岷 山 。,generated:,"云 来 气 接 巫 峡 长 ， 月 出 寒 通 雪 山 白 。
+"
+718,modern2poem: 佛 经 真 谛 世 人 并 无 领 悟 ， 荒 诞 之 事 却 为 人 们 追 逐 。,generated:,"真 源 了 无 取 ， 妄 迹 世 所 逐 。
+"
+719,modern2poem: 晚 上 身 染 御 炉 的 香 气 回 归 。,generated:,"暮 惹 御 香 归 。
+"
+720,modern2poem: 鹦 鹉 洲 上 有 一 片 碧 绿 的 芳 草 覆 盖 。,generated:,"芳 草 萋 萋 鹦 鹉 洲 。
+"
+721,modern2poem: 我 虽 然 很 喜 爱 这 首 古 时 的 曲 调 ， 但 在 今 天 人 们 大 多 已 不 去 弹 奏 了 。,generated:,"古 调 虽 自 爱 ， 今 人 多 不 弹 。
+"
+722,modern2poem: 由 此 开 始 得 到 皇 帝 的 恩 宠 。,generated:,"始 是 新 承 恩 泽 时 。
+"
+723,modern2poem: 长 安 城 内 一 片 月 光 ， 千 户 万 户 都 在 捣 衣 。,generated:,"长 安 一 片 月 ， 万 户 捣 衣 声 。
+"
+724,modern2poem: 哀 鸣 的 胡 雁 夜 夜 从 空 中 飞 过 ，,generated:,"胡 雁 哀 鸣 夜 夜 飞 ，
+"
+725,modern2poem: 如 今 回 来 路 途 中 ， 大 雪 纷 纷 满 天 飞 。,generated:,"今 我 来 思 ， 雨 雪 霏 霏 。
+"
+726,modern2poem: 饥 渴 交 加 实 在 难 忍 。,generated:,"载 饥 载 渴 。
+"
+727,modern2poem: 听 说 你 怀 有 二 心 ， 所 以 来 与 你 决 裂 。,generated:,"闻 君 有 两 意 ， 故 来 相 决 绝 。
+"
+728,modern2poem: 譬 如 河 宗 献 宝 之 后 穆 王 归 天 ，,generated:,"自 从 献 宝 朝 河 宗 ，
+"
+729,modern2poem: 这 位 姑 娘 要 出 嫁 ， 喜 气 洋 洋 归 夫 家 。,generated:,"之 子 于 归 ， 宜 其 室 家 。
+"
+730,modern2poem: 何 处 去 寻 找 武 侯 诸 葛 亮 的 祠 堂 ？ 在 成 都 城 外 那 柏 树 茂 密 的 地 方 。,generated:,"丞 相 祠 堂 何 处 寻 ， 锦 官 城 外 柏 森 森 。
+"
+731,modern2poem: 丁 大 约 定 今 晚 来 寺 住 宿 ， 独 自 抚 琴 站 在 山 路 等 你 。,generated:,"之 子 期 宿 来 ， 孤 琴 候 萝 径 。
+"
+732,modern2poem: 月 光 明 亮 星 光 稀 疏 ，,generated:,"月 明 星 稀 ，
+"
+733,modern2poem: 吊 影 伤 情 好 像 离 群 孤 雁 ， 漂 泊 无 踪 如 断 根 的 秋 蓬 。,generated:,"吊 影 分 为 千 里 雁 ， 辞 根 散 作 九 秋 蓬 。
+"
+734,modern2poem: 远 处 雪 岭 那 边 朝 廷 的 使 臣 还 稽 留 天 外 未 归 ， 近 处 松 州 一 带 也 还 驻 扎 着 朝 廷 的 军 队 。,generated:,"雪 岭 未 归 天 外 使 ， 松 州 犹 驻 殿 前 军 。
+"
+735,modern2poem: 清 澈 的 川 水 环 绕 一 片 草 木 ， 驾 车 马 徐 徐 而 去 从 容 悠 闲 。,generated:,"清 川 带 长 薄 ， 车 马 去 闲 闲 。
+"
+736,modern2poem: 世 事 渺 茫 自 我 的 命 运 怎 能 预 料 ，,generated:,"世 事 茫 茫 难 自 料 ，
+"
+737,modern2poem: 薇 菜 的 茎 叶 变 老 了 。,generated:,"薇 亦 刚 止 。
+"
+738,modern2poem: 登 高 远 望 天 地 间 壮 观 景 象 ， 大 江 悠 悠 东 流 去 永 不 回 还 。,generated:,"登 高 壮 观 天 地 间 ， 大 江 茫 茫 去 不 还 。
+"
+739,modern2poem: 原 先 她 是 越 溪 的 一 个 浣 纱 女 ， 后 来 却 成 了 吴 王 宫 里 的 爱 妃 。,generated:,"朝 为 越 溪 女 ， 暮 作 吴 宫 妃 。
+"
+740,modern2poem: 家 业 在 灾 年 中 荡 然 一 空 ，,generated:,"时 难 年 荒 世 业 空 ，
+"
+741,modern2poem: 欢 腾 的 擂 鼓 声 震 动 了 周 围 的 山 川 。,generated:,"雷 鼓 动 山 川 。
+"
+742,modern2poem: 此 次 离 别 不 知 你 们 心 绪 何 如 ，,generated:,"嗟 君 此 别 意 何 如 ，
+"
+743,modern2poem: 每 逢 节 令 仍 举 行 隆 重 的 祭 祀 。,generated:,"岁 时 伏 腊 走 村 翁 。
+"
+744,modern2poem: 流 放 岭 南 与 亲 人 断 绝 了 音 信 ，,generated:,"岭 外 音 书 断 ，
+"
+745,modern2poem: 那 美 丽 贤 淑 的 女 子 ，,generated:,"窈 窕 淑 女 ，
+"
+746,modern2poem: 将 帅 们 坐 在 车 上 ，,generated:,"君 子 所 依 ，
+"
+747,modern2poem: 出 征 将 士 很 少 能 够 生 还 。,generated:,"不 见 有 人 还 。
+"
+748,modern2poem: 离 别 后 如 浮 云 飘 流 不 定 ， 岁 月 如 流 水 一 晃 过 十 年 。,generated:,"浮 云 一 别 后 ， 流 水 十 年 间 。
+"
+749,modern2poem: 心 怀 忧 虑 啊 又 何 忍 一 走 了 之 ，,generated:,"忧 来 其 如 何 ？
+"
+750,modern2poem: 宫 女 搀 扶 起 她 如 出 水 芙 蓉 软 弱 娉 婷 ，,generated:,"侍 儿 扶 起 娇 无 力 ，
+"
+751,modern2poem: 它 的 根 牢 牢 地 扎 在 岩 石 缝 中 。,generated:,"立 根 原 在 破 岩 中 。
+"
+752,modern2poem: 宦 官 骑 马 飞 驰 不 敢 扬 起 灰 尘 ，,generated:,"黄 门 飞 鞚 不 动 尘 ，
+"
+753,modern2poem: 隔 着 篱 笆 唤 来 喝 尽 余 杯 ！,generated:,"隔 篱 呼 取 尽 馀 杯 。
+"
+754,modern2poem: 密 雨 斜 打 在 长 满 薜 荔 的 墙 上 。,generated:,"密 雨 斜 侵 薜 荔 墙 。
+"
+755,modern2poem: 你 说 因 为 生 活 不 得 意 ，,generated:,"君 言 不 得 意 ，
+"
+756,modern2poem: 零 丁 洋 身 陷 元 虏 可 叹 我 孤 苦 零 丁 。,generated:,"零 丁 洋 里 叹 零 丁 。
+"
+757,modern2poem: 贾 谊 被 贬 在 此 地 居 住 三 年 ，,generated:,"三 年 谪 宦 此 栖 迟 ，
+"
+758,modern2poem: 豆 苗 采 了 又 采 ，,generated:,"采 薇 采 薇 ，
+"
+759,modern2poem: 想 在 山 中 找 个 人 家 去 投 宿 ， 隔 水 询 问 那 樵 夫 可 否 方 便 ？,generated:,"欲 投 人 处 宿 ， 隔 水 问 樵 夫 。
+"
+760,modern2poem: 到 底 是 西 湖 六 月 天 的 景 色 ，,generated:,"毕 竟 西 湖 六 月 中 ，
+"
+761,modern2poem: 人 黄 昏 时 ， 胡 骑 扬 起 满 城 的 尘 土 ， 我 想 去 城 南 ， 却 望 着 城 北 。,generated:,"黄 昏 胡 骑 尘 满 城 ， 欲 往 城 南 望 城 北 。
+"
+762,modern2poem: 唯 独 我 没 有 出 路 。,generated:,"我 独 不 得 出 。
+"
+763,modern2poem: 为 你 取 名 叫 做 俨 ，,generated:,"名 汝 曰 俨 ，
+"
+764,modern2poem: 它 还 表 现 为 宁 死 不 降 的 严 将 军 的 头 ， 表 现 为 拼 死 抵 抗 的 嵇 侍 中 的 血 。,generated:,"为 严 将 军 头 ， 为 嵇 侍 中 血 。
+"
+765,modern2poem: 天 上 万 里 黄 云 变 动 着 风 色 ，,generated:,"黄 云 万 里 动 风 色 ，
+"
+766,modern2poem: 黄 叶 已 经 衰 枯 ， 风 雨 仍 在 摧 毁 ， 豪 门 贵 族 的 高 楼 里 ， 阔 人 们 正 在 轻 歌 曼 舞 ， 演 奏 着 急 管 繁 弦 。,generated:,"黄 叶 仍 风 雨 ， 青 楼 自 管 弦 。
+"
+767,modern2poem: 各 山 间 山 谷 迥 异 阴 晴 多 变 。,generated:,"阴 晴 众 壑 殊 。
+"
+768,modern2poem: 惶 恐 滩 的 惨 败 让 我 至 今 依 然 惶 恐 ，,generated:,"惶 恐 滩 头 说 惶 恐 ，
+"
+769,modern2poem: 昨 天 夜 里 我 们 还 在 月 色 中 同 行 。,generated:,"昨 夜 月 同 行 。
+"
+770,modern2poem: 为 你 取 字 叫 求 思 。,generated:,"字 汝 求 思 。
+"
+771,modern2poem: 狭 窄 的 山 径 草 木 丛 生 ，,generated:,"道 狭 草 木 长 ，
+"
+772,modern2poem: 书 写 数 张 还 可 换 回 一 群 白 鹅 。,generated:,"数 纸 尚 可 博 白 鹅 。
+"
+773,modern2poem: 织 女 正 摆 动 柔 长 洁 白 的 双 手 ， 织 布 机 札 札 不 停 地 响 个 不 停 。,generated:,"纤 纤 擢 素 手 ， 札 札 弄 机 杼 。
+"
+774,modern2poem: 巫 峡 猿 猴 悲 啼 令 人 伤 心 流 泪 ， 衡 阳 的 归 雁 会 为 我 捎 来 回 书 。,generated:,"巫 峡 啼 猿 数 行 泪 ， 衡 阳 归 雁 几 封 书 。
+"
+775,modern2poem: 昨 天 夜 里 梦 见 花 落 闲 潭 ，,generated:,"昨 夜 闲 潭 梦 落 花 ，
+"
+776,modern2poem: 掀 开 窗 帘 玩 赏 那 初 升 的 玉 兔 。,generated:,"开 帷 月 初 吐 。
+"
+777,modern2poem: 你 难 道 没 有 看 见 吗 ？ 那 黄 河 之 水 犹 如 从 天 上 倾 泻 而 来 ， 波 涛 翻 滚 直 奔 东 海 从 来 不 会 再 往 回 流 。,generated:,"君 不 见 ， 黄 河 之 水 天 上 来 ， 奔 流 到 海 不 复 回 。
+"
+778,modern2poem: 秋 天 景 色 引 起 我 的 乡 思 。,generated:,"秋 日 望 乡 心 。
+"
+779,modern2poem: 红 旗 冻 僵 了 风 也 无 法 牵 引 。,generated:,"风 掣 红 旗 冻 不 翻 。
+"
+780,modern2poem: 清 风 吹 开 云 雾 月 光 放 清 波 。,generated:,"清 风 吹 空 月 舒 波 。
+"
+781,modern2poem: 到 底 是 西 湖 六 月 天 的 景 色 ， 风 光 与 其 它 季 节 确 实 不 同 。,generated:,"毕 竟 西 湖 六 月 中 ， 风 光 不 与 四 时 同 。
+"
+782,modern2poem: 问 客 人 为 什 么 来 ，,generated:,"问 客 何 为 来 ，
+"
+783,modern2poem: 大 江 悠 悠 东 流 去 永 不 回 还 。,generated:,"大 江 茫 茫 去 不 还 。
+"
+784,modern2poem: 等 候 着 你 的 孤 舟 从 天 涯 回 还 。,generated:,"天 涯 孤 棹 还 。
+"
+785,modern2poem: 江 面 上 传 来 马 的 嘶 鸣 看 船 归 ， 柳 荫 下 的 人 们 等 待 着 船 靠 岸 。,generated:,"波 上 马 嘶 看 棹 去 ， 柳 边 人 歇 待 船 归 。
+"
+786,modern2poem: 宝 塔 宛 如 平 地 涌 出 ，,generated:,"塔 势 如 涌 出 ，
+"
+787,modern2poem: 兄 弟 分 散 各 自 你 西 我 东 。,generated:,"弟 兄 羁 旅 各 西 东 。
+"
+788,modern2poem: 看 死 亡 就 好 像 回 归 故 里 。,generated:,"视 死 忽 如 归 ！
+"
+789,modern2poem: 那 墙 角 的 几 枝 梅 花 ，,generated:,"墙 角 数 枝 梅 ，
+"
+790,modern2poem: 微 风 吹 拂 着 清 香 四 溢 的 兰 杜 。,generated:,"微 风 吹 兰 杜 。
+"
+791,modern2poem: 我 也 想 要 谢 绝 世 俗 ，,generated:,"余 亦 谢 时 去 ，
+"
+792,modern2poem: 它 还 表 现 为 宁 死 不 降 的 严 将 军 的 头 ，,generated:,"为 严 将 军 头 ，
+"
+793,modern2poem: 惶 恐 滩 的 惨 败 让 我 至 今 依 然 惶 恐 ， 零 丁 洋 身 陷 元 虏 可 叹 我 孤 苦 零 丁 。,generated:,"惶 恐 滩 头 说 惶 恐 ， 零 丁 洋 里 叹 零 丁 。
+"
+794,modern2poem: 微 风 吹 拂 着 江 岸 的 细 草 ，,generated:,"细 草 微 风 岸 ，
+"
+795,modern2poem: 秀 美 的 庐 山 挺 拔 在 南 斗 旁 ， 九 叠 云 屏 像 锦 绣 云 霞 铺 张 。,generated:,"庐 山 秀 出 南 斗 傍 ， 屏 风 九 叠 云 锦 张 。
+"
+796,modern2poem: 织 锦 回 文 诉 说 思 念 的 长 恨 ， 楼 上 花 枝 取 笑 我 依 然 独 眠 。,generated:,"机 中 锦 字 论 长 恨 ， 楼 上 花 枝 笑 独 眠 。
+"
+797,modern2poem: 老 牛 和 骏 马 被 关 在 一 起 共 用 一 槽 ， 凤 凰 住 在 鸡 窝 里 像 鸡 一 样 饮 食 起 居 。,generated:,"牛 骥 同 一 皂 ， 鸡 栖 凤 凰 食 。
+"
+798,modern2poem: 就 在 河 水 那 一 方 。,generated:,"在 水 一 方 。
+"
+799,modern2poem: 风 和 日 丽 游 春 在 泗 水 之 滨 ，,generated:,"胜 日 寻 芳 泗 水 滨 ，
+"
+800,modern2poem: 进 入 黄 花 川 游 览 ， 每 每 都 去 追 逐 那 条 青 溪 。,generated:,"言 入 黄 花 川 ， 每 逐 清 溪 水 。
+"
+801,modern2poem: 淡 淡 月 光 泻 在 水 上 泄 在 树 上 ， 轻 悠 悠 的 波 光 涟 漪 荡 入 窗 户 。,generated:,"清 辉 澹 水 木 ， 演 漾 在 窗 户 。
+"
+802,modern2poem: 癫 病 患 者 夜 生 子 ， 急 取 灯 火 瞧 仔 细 。,generated:,"厉 夜 生 子 ， 遽 而 求 火 。
+"
+803,modern2poem: 俯 听 山 风 呼 啸 迅 猛 。,generated:,"俯 听 闻 惊 风 。
+"
+804,modern2poem: 有 时 空 闲 ， 步 过 信 陵 郡 ， 来 点 酒 饮 ， 脱 剑 横 在 膝 前 。,generated:,"闲 过 信 陵 饮 ， 脱 剑 膝 前 横 。
+"
+805,modern2poem: 波 涛 汹 涌 似 乎 把 岳 阳 城 撼 动 。,generated:,"波 撼 岳 阳 城 。
+"
+806,modern2poem: 向 东 望 无 心 鞭 马 任 由 马 前 进 回 京 城 。,generated:,"东 望 都 门 信 马 归 。
+"
+807,modern2poem: 贫 家 的 女 儿 不 识 绮 罗 的 芳 香 ， 想 托 个 良 媒 说 亲 更 感 到 悲 伤 。,generated:,"蓬 门 未 识 绮 罗 香 ， 拟 托 良 媒 益 自 伤 。
+"
+808,modern2poem: 淮 南 子 有 一 叶 落 而 知 岁 暮 之 句 ； 我 悟 到 洞 庭 波 兮 木 叶 下 的 诗 情 。,generated:,"淮 南 一 叶 下 ， 自 觉 洞 庭 波 。
+"
+809,modern2poem: 星 月 交 辉 掩 映 山 间 雾 朦 胧 。,generated:,"星 月 掩 映 云 曈 昽 。
+"
+810,modern2poem: 想 带 着 一 瓢 酒 去 看 你 ， 让 你 在 风 雨 夜 里 得 到 些 安 慰 。,generated:,"欲 持 一 瓢 酒 ， 远 慰 风 雨 夕 。
+"
+811,modern2poem: 一 队 整 齐 的 白 鹭 直 冲 向 蔚 蓝 的 天 空 。,generated:,"一 行 白 鹭 上 青 天 。
+"
+812,modern2poem: 白 雪 似 的 杨 花 飘 落 覆 盖 浮 萍 ， 青 鸟 飞 去 衔 起 地 上 的 红 丝 帕 。,generated:,"杨 花 雪 落 覆 白 苹 ， 青 鸟 飞 去 衔 红 巾 。
+"
+813,modern2poem: 有 人 在 屋 檐 下 烧 柴 火 做 饭 ， 助 长 了 炎 热 的 肆 虐 ， 这 时 屋 子 里 都 是 火 气 ；,generated:,"檐 阴 薪 爨 ， 助 长 炎 虐 ， 时 则 为 火 气 ；
+"
+814,modern2poem: 每 每 都 去 追 逐 那 条 青 溪 。,generated:,"每 逐 清 溪 水 。
+"
+815,modern2poem: 只 有 远 离 故 里 外 出 做 官 之 人 ， 特 别 敏 感 自 然 物 候 转 化 更 新 。,generated:,"独 有 宦 游 人 ， 偏 惊 物 候 新 。
+"
+816,modern2poem: 开 国 以 来 善 画 鞍 马 的 画 家 中 ，,generated:,"国 初 已 来 画 鞍 马 ，
+"
+817,modern2poem: 只 有 一 轮 明 月 静 静 与 我 相 伴 。,generated:,"明 月 来 相 照 。
+"
+818,modern2poem: 贾 女 隔 帘 窥 韩 寿 ， 是 爱 他 年 轻 貌 美 ， 魏 王 梦 见 甄 氏 留 枕 ， 赋 诗 比 作 宓 妃 。,generated:,"贾 氏 窥 帘 韩 掾 少 ， 宓 妃 留 枕 魏 王 才 。
+"
+819,modern2poem: 我 把 我 忧 愁 的 心 思 寄 托 给 明 月 ， 希 望 能 随 着 风 一 直 陪 着 你 到 夜 郎 以 西 。,generated:,"我 寄 愁 心 与 明 月 ， 随 风 直 到 夜 郎 西 。
+"
+820,modern2poem: 今 夜 又 是 一 个 什 么 吉 日 良 辰 ，,generated:,"今 夕 复 何 夕 ，
+"
+821,modern2poem: 布 质 的 被 子 盖 了 多 年 又 冷 又 硬 像 铁 板 似 的 ，,generated:,"布 衾 多 年 冷 似 铁 ，
+"
+822,modern2poem: 这 时 屋 子 里 都 是 火 气 ；,generated:,"时 则 为 火 气 ；
+"
+823,modern2poem: 山 上 的 树 重 重 遮 住 了 远 望 的 视 线 ， 江 流 曲 折 就 像 九 转 的 回 肠 。,generated:,"岭 树 重 遮 千 里 目 ， 江 流 曲 似 九 回 肠 。
+"
+824,modern2poem: 漂 泊 无 踪 如 断 根 的 秋 蓬 。,generated:,"辞 根 散 作 九 秋 蓬 。
+"
+825,modern2poem: 地 里 小 麦 盖 垄 熟 黄 。,generated:,"小 麦 覆 陇 黄 。
+"
+826,modern2poem: 月 色 如 霜 所 以 霜 飞 无 从 觉 察 ，,generated:,"空 里 流 霜 不 觉 飞 ，
+"
+827,modern2poem: 高 高 的 山 顶 上 有 一 座 茅 屋 ，,generated:,"绝 顶 一 茅 茨 ，
+"
+828,modern2poem: 艺 人 先 弹 《 渌 水 》 后 奏 《 楚 妃 》 。,generated:,"初 弹 渌 水 后 楚 妃 。
+"
+829,modern2poem: 您 问 归 期 ， 归 期 实 难 说 准 ， 巴 山 连 夜 暴 雨 ， 涨 满 秋 池 。,generated:,"君 问 归 期 未 有 期 ， 巴 山 夜 雨 涨 秋 池 。
+"
+830,modern2poem: 树 皮 洁 白 润 滑 树 干 有 四 十 围 ， 青 黑 色 朝 天 耸 立 足 有 二 千 尺 。,generated:,"霜 皮 溜 雨 四 十 围 ， 黛 色 参 天 二 千 尺 。
+"
+831,modern2poem: 只 剩 下 思 妇 站 在 离 别 的 青 枫 浦 不 胜 忧 愁 。,generated:,"青 枫 浦 上 不 胜 愁 。
+"
+832,modern2poem: 鸿 鹄 已 高 飞 远 空 在 日 月 之 间 ，,generated:,"鸿 飞 冥 冥 日 月 白 ，
+"
+833,modern2poem: 如 今 不 操 弓 疡 瘤 生 于 左 肘 。,generated:,"今 日 垂 杨 生 左 肘 。
+"
+834,modern2poem: 大 雁 北 飞 ， 就 像 要 回 到 北 方 家 乡 的 人 那 样 ， 但 是 由 于 依 恋 ， 差 一 点 掉 了 队 。,generated:,"两 两 归 鸿 欲 破 群 ， 依 依 还 似 北 归 人 。
+"
+835,modern2poem: 没 有 什 么 可 看 的 不 如 远 远 走 开 吧 。,generated:,"去 去 不 足 观 。
+"
+836,modern2poem: 望 不 到 头 的 长 江 水 滚 滚 奔 腾 而 来 。,generated:,"不 尽 长 江 滚 滚 来 。
+"
+837,modern2poem: 仗 着 鬼 神 守 护 石 鼓 永 不 湮 没 。,generated:,"鬼 物 守 护 烦 撝 呵 。
+"
+838,modern2poem: 自 惭 这 样 长 久 地 孤 独 沉 沦 ，,generated:,"以 我 独 沉 久 ，
+"
+839,modern2poem: 有 的 人 十 五 岁 到 黄 河 以 北 去 戍 守 ， 纵 然 到 了 四 十 岁 还 要 到 西 部 边 疆 去 屯 田 。,generated:,"或 从 十 五 北 防 河 ， 便 至 四 十 西 营 田 。
+"
+840,modern2poem: 后 宫 中 妃 嫔 不 下 三 千 人 ， 却 只 有 她 独 享 皇 帝 的 恩 宠 。,generated:,"后 宫 佳 丽 三 千 人 ， 三 千 宠 爱 在 一 身 。
+"
+841,modern2poem: 在 南 浦 凄 凉 愁 苦 的 分 别 ，,generated:,"南 浦 凄 凄 别 ，
+"
+842,modern2poem: 两 岸 风 吹 树 动 枝 叶 沙 沙 作 响 ， 月 光 如 水 映 照 江 畔 一 叶 孤 舟 。,generated:,"风 鸣 两 岸 叶 ， 月 照 一 孤 舟 。
+"
+843,modern2poem: 燕 地 小 草 像 碧 丝 般 青 绿 ， 秦 地 的 桑 树 已 叶 翠 枝 绿 。,generated:,"燕 草 如 碧 丝 ， 秦 桑 低 绿 枝 。
+"
+844,modern2poem: 心 怀 忧 虑 啊 又 何 忍 一 走 了 之 ， 凄 惨 悲 伤 让 我 肝 肠 寸 断 。,generated:,"忧 来 其 如 何 ？ 凄 怆 摧 心 肝 。
+"
+845,modern2poem: 只 有 长 江 奔 流 从 古 到 今 。,generated:,"长 江 独 至 今 。
+"
+846,modern2poem: 近 处 篱 笆 边 都 种 上 了 菊 花 ，,generated:,"近 种 篱 边 菊 ，
+"
+847,modern2poem: 从 左 到 右 去 拔 它 。,generated:,"左 右 芼 之 。
+"
+848,modern2poem: 座 旁 的 听 者 个 个 感 慨 叹 息 ， 思 乡 的 游 客 人 人 悲 伤 落 泪 。,generated:,"傍 邻 闻 者 多 叹 息 ， 远 客 思 乡 皆 泪 垂 。
+"
+849,modern2poem: 到 了 距 长 安 一 百 多 里 的 马 嵬 坡 。,generated:,"西 出 都 门 百 余 里 。
+"
+850,modern2poem: 皇 帝 仪 仗 队 车 队 走 走 停 停 ，,generated:,"翠 华 摇 摇 行 复 止 ，
+"
+851,modern2poem: 自 顾 华 发 心 惭 愧 ，,generated:,"顾 惭 华 鬓 ，
+"
+852,modern2poem: 却 只 有 她 独 享 皇 帝 的 恩 宠 。,generated:,"三 千 宠 爱 在 一 身 。
+"
+853,modern2poem: 我 家 祖 先 甚 遥 远 ，,generated:,"悠 悠 我 祖 ，
+"
+854,modern2poem: 波 涛 翻 滚 直 奔 东 海 从 来 不 会 再 往 回 流 。,generated:,"奔 流 到 海 不 复 回 。
+"
+855,modern2poem: 即 使 能 合 葬 也 无 法 倾 诉 衷 情 ， 来 世 结 缘 是 多 么 虚 幻 的 企 望 。,generated:,"同 穴 窅 冥 何 所 望 ， 他 生 缘 会 更 难 期 。
+"
+856,modern2poem: 不 要 让 金 杯 无 酒 空 对 皎 洁 的 明 月 。,generated:,"莫 使 金 樽 空 对 月 。
+"
+857,modern2poem: 手 持 杯 蛟 教 导 我 掷 占 方 法 ， 说 此 卜 兆 最 吉 他 人 难 相 同 。,generated:,"手 持 杯 珓 导 我 掷 ， 云 此 最 吉 余 难 同 。
+"
+858,modern2poem: 在 岩 石 的 西 畔 询 问 渔 船 。,generated:,"石 矶 西 畔 问 渔 船 。
+"
+859,modern2poem: 你 与 沉 冤 的 屈 子 同 命 运 ，,generated:,"应 共 冤 魂 语 ，
+"
+860,modern2poem: 身 经 沙 场 百 战 铁 甲 已 破 碎 ， 城 池 南 面 被 敌 人 重 重 包 围 。,generated:,"百 战 沙 场 碎 铁 衣 ， 城 南 已 合 数 重 围 。
+"
+861,modern2poem: 它 有 七 种 气 ， 我 有 一 种 气 ， 用 我 的 一 种 气 可 以 敌 过 那 七 种 气 ， 我 担 忧 什 么 呢 ！,generated:,"」 彼 气 有 七 ， 吾 气 有 一 ， 以 一 敌 七 ， 吾 何 患 焉 ！
+"
+862,modern2poem: 初 升 的 太 阳 照 耀 着 千 家 万 户 ， 都 把 旧 的 桃 符 取 下 换 上 新 的 桃 符 。,generated:,"千 门 万 户 曈 曈 日 ， 总 把 新 桃 换 旧 符 。
+"
+863,modern2poem: 周 朝 政 治 衰 败 全 国 动 荡 不 安 ， 周 宣 王 发 愤 起 兵 挥 起 了 天 戈 。,generated:,"周 纲 凌 迟 四 海 沸 ， 宣 王 愤 起 挥 天 戈 。
+"
+864,modern2poem: 戍 楼 上 的 更 鼓 声 隔 断 了 人 们 的 来 往 ， 边 塞 的 秋 天 里 ， 一 只 孤 雁 正 在 鸣 叫 。,generated:,"戍 鼓 断 人 行 ， 边 秋 一 雁 声 。
+"
+865,modern2poem: 温 和 而 又 恭 顺 ，,generated:,"终 温 且 惠 ，
+"
+866,modern2poem: 它 有 七 种 气 ，,generated:诗 七 气 。,"」 彼 气 有 七 ，
+"
+867,modern2poem: 枝 干 色 如 青 铜 根 柢 固 如 盘 石 。,generated:,"柯 如 青 铜 根 如 石 。
+"
+868,modern2poem: 声 名 煊 赫 大 梁 城 。,generated:,"烜 赫 大 梁 城 。
+"
+869,modern2poem: 新 年 都 已 来 到 ， 但 还 看 不 到 芬 芳 的 鲜 花 ， 到 二 月 ， 才 惊 喜 地 发 现 有 小 草 冒 出 了 新 芽 。,generated:,"新 年 都 未 有 芳 华 ， 二 月 初 惊 见 草 芽 。
+"
+870,modern2poem: 布 质 的 被 子 盖 了 多 年 又 冷 又 硬 像 铁 板 似 的 ， 孩 子 睡 觉 姿 势 不 好 把 被 子 蹬 破 了 。,generated:,"布 衾 多 年 冷 似 铁 ， 娇 儿 恶 卧 踏 里 裂 。
+"
+871,modern2poem: 整 日 整 夜 念 念 不 忘 。,generated:,"尽 日 不 能 忘 。
+"
+872,modern2poem: 这 是 为 什 么 呵 ， 我 却 有 家 归 去 不 得 ？ 杜 鹃 呵 ， 不 要 在 我 耳 边 不 停 地 悲 啼 。,generated:,"等 是 有 家 归 未 得 ， 杜 鹃 休 向 耳 边 啼 。
+"
+873,modern2poem: 古 庙 里 杉 松 树 上 水 鹤 做 了 巢 ， 每 逢 节 令 仍 举 行 隆 重 的 祭 祀 。,generated:,"古 庙 杉 松 巢 水 鹤 ， 岁 时 伏 腊 走 村 翁 。
+"
+874,modern2poem: 瞻 望 不 见 人 影 ，,generated:,"瞻 望 弗 及 ，
+"
+875,modern2poem: 人 世 间 就 有 美 好 的 桃 源 。,generated:,"人 间 亦 自 有 丹 丘 。
+"
+876,modern2poem: 世 事 何 等 地 纷 繁 渺 茫 ，,generated:,"生 事 且 弥 漫 ，
+"
+877,modern2poem: 古 柏 重 如 丘 山 万 年 也 难 拉 动 。,generated:,"万 牛 回 首 丘 山 重 。
+"
+878,modern2poem: 两 只 黄 鹂 在 翠 绿 的 柳 树 间 婉 转 地 歌 唱 ， 一 队 整 齐 的 白 鹭 直 冲 向 蔚 蓝 的 天 空 。,generated:,"两 个 黄 鹂 鸣 翠 柳 ， 一 行 白 鹭 上 青 天 。
+"
+879,modern2poem: 自 顾 华 发 心 惭 愧 ， 孤 身 一 人 负 影 立 。,generated:,"顾 惭 华 鬓 ， 负 影 只 立 。
+"
+880,modern2poem: 牵 马 饮 水 渡 过 了 那 大 河 ，,generated:,"饮 马 渡 秋 水 ，
+"
+881,modern2poem: 你 没 看 见 拼 杀 在 沙 场 战 斗 多 惨 苦 ，,generated:,"君 不 见 沙 场 征 战 苦 ，
+"
+882,modern2poem: 城 池 南 面 被 敌 人 重 重 包 围 。,generated:,"城 南 已 合 数 重 围 。
+"
+883,modern2poem: 秋 季 的 天 空 阴 沉 迷 蒙 渐 渐 黑 了 下 来 。,generated:,"秋 天 漠 漠 向 昏 黑 。
+"
+884,modern2poem: 良 相 们 的 头 顶 都 戴 上 了 进 贤 冠 ， 猛 将 们 的 腰 间 皆 佩 带 着 大 羽 箭 。,generated:,"良 相 头 上 进 贤 冠 ， 猛 将 腰 间 大 羽 箭 。
+"
+885,modern2poem: 在 这 高 高 的 城 楼 上 。,generated:,"在 城 阙 兮 。
+"
+886,modern2poem: 春 院 里 的 门 直 到 天 黑 都 始 终 紧 闭 。,generated:,"春 院 閟 天 黑 。
+"
+887,modern2poem: 你 的 歌 声 酸 楚 歌 辞 也 悲 苦 ，,generated:,"君 歌 声 酸 辞 且 苦 ，
+"
+888,modern2poem: 来 世 结 缘 是 多 么 虚 幻 的 企 望 。,generated:,"他 生 缘 会 更 难 期 。
+"
+889,modern2poem: 朱 亥 与 侯 嬴 真 千 秋 万 古 二 壮 士 ， 声 名 煊 赫 大 梁 城 。,generated:,"千 秋 二 壮 士 ， 烜 赫 大 梁 城 。
+"
+890,modern2poem: 清 澈 的 川 水 环 绕 一 片 草 木 ，,generated:,"清 川 带 长 薄 ，
+"
+891,modern2poem: 皇 宫 里 钟 声 稀 疏 ， 官 舍 中 办 公 的 官 吏 已 经 很 少 ， 门 下 省 里 只 听 见 乌 鸣 。,generated:,"禁 里 疏 钟 官 舍 晚 ， 省 中 啼 鸟 吏 人 稀 。
+"
+892,modern2poem: 凤 凰 住 在 鸡 窝 里 像 鸡 一 样 饮 食 起 居 。,generated:,"鸡 栖 凤 凰 食 。
+"
+893,modern2poem: 青 萝 轻 拂 好 象 有 西 风 飕 飕 而 生 。,generated:,"西 风 生 翠 萝 。
+"
+894,modern2poem: 忽 然 回 忆 起 在 会 灵 观 尝 食 新 谷 之 事 ， 如 要 滞 留 在 江 海 之 上 需 多 进 饮 食 ， 保 重 身 体 啊 。,generated:,"忽 忆 尝 新 会 灵 观 ， 滞 留 江 海 得 加 餐 。
+"
+895,modern2poem: 几 乎 扫 光 全 城 才 走 。,generated:,"几 尽 而 去 。
+"
+896,modern2poem: 阳 光 下 鹿 群 呦 呦 欢 鸣 ， 悠 然 自 得 啃 食 在 绿 坡 。,generated:,"呦 呦 鹿 鸣 ， 食 野 之 苹 。
+"
+897,modern2poem: 大 厦 如 若 倾 倒 要 有 梁 栋 支 撑 ， 古 柏 重 如 丘 山 万 年 也 难 拉 动 。,generated:,"大 厦 如 倾 要 梁 栋 ， 万 牛 回 首 丘 山 重 。
+"
+898,modern2poem: 长 乐 宫 与 后 花 园 正 是 春 意 盎 然 ， 嵌 玉 的 楼 台 与 镶 金 的 宫 殿 每 日 都 有 新 的 赋 艳 词 的 曲 。,generated:,"长 乐 宫 连 上 苑 春 ， 玉 楼 金 殿 艳 歌 新 。
+"
+899,modern2poem: 皇 帝 仪 仗 队 车 队 走 走 停 停 ， 到 了 距 长 安 一 百 多 里 的 马 嵬 坡 。,generated:,"翠 华 摇 摇 行 复 止 ， 西 出 都 门 百 余 里 。
+"
+900,modern2poem: 各 自 在 一 处 。,generated:,"各 在 一 处 。
+"
+901,modern2poem: 日 暮 时 投 宿 石 壕 村 ，,generated:,"暮 投 石 壕 村 ，
+"
+902,modern2poem: 千 家 万 户 传 来 了 捣 衣 的 声 响 。,generated:,"砧 杵 夜 千 家 。
+"
+903,modern2poem: 也 许 是 园 主 担 心 我 的 木 屐 踩 坏 他 那 爱 惜 的 青 苔 ， 轻 轻 地 敲 柴 门 ， 久 久 没 有 人 来 开 。,generated:,"应 怜 屐 齿 印 苍 苔 ， 小 扣 柴 扉 久 不 开 。
+"
+904,modern2poem: 请 你 们 为 我 倾 耳 细 听 。,generated:,"请 君 为 我 倾 耳 听 。
+"
+905,modern2poem: 海 内 连 年 战 乱 ， 几 个 兄 弟 音 讯 阻 隔 ； 彼 此 天 涯 海 角 ， 只 我 一 人 好 不 凄 怆 ？,generated:,"海 内 风 尘 诸 弟 隔 ， 天 涯 涕 泪 一 身 遥 。
+"
+906,modern2poem: 死 后 也 要 做 鬼 中 英 雄 。,generated:,"死 亦 为 鬼 雄 。
+"
+907,modern2poem: 若 肯 邀 请 隔 壁 的 老 翁 一 同 对 饮 ， 隔 着 篱 笆 唤 来 喝 尽 余 杯 ！,generated:,"肯 与 邻 翁 相 对 饮 ， 隔 篱 呼 取 尽 馀 杯 。
+"
+908,modern2poem: 昨 天 夜 里 梦 见 花 落 闲 潭 ， 可 惜 的 是 春 天 已 过 了 一 半 自 己 却 还 不 能 回 家 。,generated:,"昨 夜 闲 潭 梦 落 花 ， 可 怜 春 半 不 还 家 。
+"
+909,modern2poem: 弯 曲 的 山 路 上 原 本 没 有 雨 ， 但 苍 翠 的 山 色 却 浓 得 仿 佛 就 要 润 湿 了 人 的 衣 裳 一 样 。,generated:,"山 路 元 无 雨 ， 空 翠 湿 人 衣 。
+"
+910,modern2poem: 漫 山 遍 谷 都 有 它 ，,generated:,"施 于 中 谷 ，
+"
+911,modern2poem: 让 我 沉 痛 吟 诵 至 今 。,generated:,"沉 吟 至 今 。
+"
+912,modern2poem: 冠 上 洁 白 丝 绦 垂 在 两 耳 边 ，,generated:,"充 耳 以 素 乎 而 ，
+"
+913,modern2poem: 不 要 买 下 沃 洲 山 ， 现 在 已 经 有 人 知 道 那 儿 了 。,generated:,"莫 买 沃 洲 山 ， 时 人 已 知 处 。
+"
+914,modern2poem: 我 早 年 遇 到 了 太 平 世 道 ，,generated:,"昔 岁 逢 太 平 ，
+"
+915,modern2poem: 此 次 离 别 不 知 你 们 心 绪 何 如 ， 停 住 马 饮 酒 询 问 被 贬 的 去 处 。,generated:,"嗟 君 此 别 意 何 如 ， 驻 马 衔 杯 问 谪 居 。
+"
+916,modern2poem: 这 里 就 是 历 代 征 战 之 地 ， 出 征 将 士 很 少 能 够 生 还 。,generated:,"由 来 征 战 地 ， 不 见 有 人 还 。
+"
+917,modern2poem: 又 像 风 吹 枯 桑 老 柏 沙 沙 响 ， 还 像 九 只 雏 凤 鸣 叫 啾 啾 啼 。,generated:,"枯 桑 老 柏 寒 飕 飗 ， 九 雏 鸣 凤 乱 啾 啾 。
+"
+918,modern2poem: 即 使 能 合 葬 也 无 法 倾 诉 衷 情 ，,generated:,"同 穴 窅 冥 何 所 望 ，
+"
+919,modern2poem: 浑 然 又 像 织 梭 化 龙 九 鼎 沦 没 。,generated:,"古 鼎 跃 水 龙 腾 梭 。
+"
+920,modern2poem: 丞 相 的 祠 庙 就 在 先 王 庙 临 近 ， 君 臣 共 同 享 受 着 礼 仪 和 祭 礼 。,generated:,"武 侯 祠 堂 常 邻 近 ， 一 体 君 臣 祭 祀 同 。
+"
+921,modern2poem: 嫁 给 我 这 个 贫 士 事 事 不 顺 利 。,generated:,"自 嫁 黔 娄 百 事 乖 。
+"
+922,modern2poem: 就 像 今 年 冬 天 ，,generated:,"且 如 今 年 冬 ，
+"
+923,modern2poem: 溪 柴 烧 的 小 火 和 裹 在 身 上 的 毛 毡 都 很 暖 和 ， 我 和 猫 儿 都 不 愿 出 门 。,generated:,"溪 柴 火 软 蛮 毡 暖 ， 我 与 狸 奴 不 出 门 。
+"
+924,modern2poem: 我 和 从 弟 在 南 斋 高 卧 的 时 候 ，,generated:,"高 卧 南 斋 时 ，
+"
+925,modern2poem: 桃 花 怒 放 千 万 朵 ， 色 彩 鲜 艳 红 似 火 。,generated:,"桃 之 夭 夭 ， 灼 灼 其 华 。
+"
+926,modern2poem: 此 夜 投 宿 佛 寺 住 在 高 阁 上 ，,generated:,"夜 投 佛 寺 上 高 阁 ，
+"
+927,modern2poem: 轻 歌 曼 舞 多 合 拍 管 弦 旋 律 尽 传 神 ，,generated:,"缓 歌 慢 舞 凝 丝 竹 ，
+"
+928,modern2poem: 来 来 往 往 都 在 九 江 附 近 。,generated:,"来 去 九 江 侧 。
+"
+929,modern2poem: 漆 黑 之 夜 不 见 月 亮 ， 只 见 那 渔 船 上 的 灯 光 ， 孤 独 的 灯 光 在 茫 茫 的 夜 色 中 ， 象 萤 火 虫 一 样 发 出 一 点 微 亮 。,generated:,"月 黑 见 渔 灯 ， 孤 光 一 点 萤 。
+"
+930,modern2poem: 古 柏 独 立 高 耸 虽 然 盘 踞 得 地 ， 但 是 位 高 孤 傲 必 定 多 招 烈 风 。,generated:,"落 落 盘 踞 虽 得 地 ， 冥 冥 孤 高 多 烈 风 。
+"
+931,modern2poem: 而 今 新 画 之 中 就 有 这 两 匹 马 ，,generated:今 新画 有 这 两 马 。,"今 之 新 图 有 二 马 ，
+"
+932,modern2poem: 为 人 谨 慎 善 良 。,generated:,"淑 慎 其 身 。
+"
+933,modern2poem: 等 到 九 九 重 阳 节 到 来 时 ， 再 请 君 来 这 里 观 赏 菊 花 。,generated:,"待 到 重 阳 日 ， 还 来 就 菊 花 。
+"
+934,modern2poem: 开 元 时 先 帝 的 天 马 名 叫 玉 花 骢 ，,generated:,"先 帝 御 马 五 花 骢 ，
+"
+935,modern2poem: 说 此 卜 兆 最 吉 他 人 难 相 同 。,generated:,"云 此 最 吉 余 难 同 。
+"
+936,modern2poem: 来 来 往 往 张 眼 望 啊 ， 在 这 高 高 的 城 楼 上 。,generated:,"挑 兮 达 兮 ， 在 城 阙 兮 。
+"
+937,modern2poem: 我 东 西 漂 泊 ， 一 再 奔 走 他 乡 异 土 ， 今 日 歇 脚 阆 州 ， 来 悼 别 你 的 孤 坟 。,generated:,"他 乡 复 行 役 ， 驻 马 别 孤 坟 。
+"
+938,modern2poem: 我 的 郎 恭 谨 等 候 在 影 壁 前 ， 冠 上 洁 白 丝 绦 垂 在 两 耳 边 ， 缀 饰 的 美 玉 悬 荡 在 我 眼 前 。,generated:,"俟 我 于 著 乎 而 ， 充 耳 以 素 乎 而 ， 尚 之 以 琼 华 乎 而 。
+"
+939,modern2poem: 虽 然 有 绝 顶 谁 能 登 上 顶 峰 。,generated:,"虽 有 绝 顶 谁 能 穷 ？
+"
+940,modern2poem: 秋 风 吹 送 捣 衣 声 声 ，,generated:,"秋 风 吹 不 尽 ，
+"
+941,modern2poem: 良 相 们 的 头 顶 都 戴 上 了 进 贤 冠 ，,generated:,"良 相 头 上 进 贤 冠 ，
+"
+942,modern2poem: 猛 将 们 的 腰 间 皆 佩 带 着 大 羽 箭 。,generated:,"猛 将 腰 间 大 羽 箭 。
+"
+943,modern2poem: 将 军 接 受 赐 盘 叩 拜 皇 恩 回 归 ，,generated:,"盘 赐 将 军 拜 舞 归 ，
+"
+944,modern2poem: 胡 人 士 兵 个 个 眼 泪 双 双 滴 落 。,generated:,"胡 儿 眼 泪 双 双 落 。
+"
+945,modern2poem: 君 臣 相 顾 泪 湿 衣 衫 ， 向 东 望 无 心 鞭 马 任 由 马 前 进 回 京 城 。,generated:,"君 臣 相 顾 尽 沾 衣 ， 东 望 都 门 信 马 归 。
+"
+946,modern2poem: 只 要 看 看 历 来 那 些 负 盛 名 的 人 ， 最 终 已 经 坎 坷 穷 愁 纠 缠 其 身 了 。,generated:,"但 看 古 来 盛 名 下 ， 终 日 坎 壈 缠 其 身 。
+"
+947,modern2poem: 天 地 之 间 有 一 股 堂 堂 正 气 ，,generated:,"天 地 有 正 气 ，
+"
+948,modern2poem: 明 亮 的 月 光 洒 在 床 前 的 窗 户 纸 上 ， 好 像 地 上 泛 起 了 一 层 霜 。,generated:,"床 前 明 月 光 ， 疑 是 地 上 霜 。
+"
+949,modern2poem: 世 人 只 晓 听 曲 不 懂 得 欣 赏 ， 乐 人 就 像 独 行 于 暴 风 之 中 。,generated:,"世 人 解 听 不 解 赏 ， 长 飙 风 中 自 来 往 。
+"
+950,modern2poem: 让 你 在 风 雨 夜 里 得 到 些 安 慰 。,generated:,"远 慰 风 雨 夕 。
+"
+951,modern2poem: 春 风 根 本 吹 不 到 玉 门 关 外 。,generated:,"春 风 不 度 玉 门 关 。
+"
+952,modern2poem: 人 生 道 路 如 此 宽 广 ，,generated:,"大 道 如 青 天 ，
+"
+953,modern2poem: 看 到 这 种 情 景 我 很 伤 心 ， 因 而 忧 愁 容 颜 衰 老 。,generated:,"感 此 伤 妾 心 ， 坐 愁 红 颜 老 。
+"
+954,modern2poem: 开 元 时 先 帝 的 天 马 名 叫 玉 花 骢 ， 多 少 画 家 画 出 的 都 与 原 貌 不 同 。,generated:,"先 帝 御 马 五 花 骢 ， 画 工 如 山 貌 不 同 。
+"
+955,modern2poem: 更 不 能 顾 念 那 儿 女 妻 子 。,generated:,"何 言 子 与 妻 ！
+"
+956,modern2poem: 在 战 乱 年 代 ， 短 暂 的 分 离 也 让 人 依 依 惜 别 。,generated:,"世 路 干 戈 惜 暂 分 。
+"
+957,modern2poem: 泪 流 纷 如 雨 降 。,generated:,"泣 涕 如 雨 。
+"
+958,modern2poem: 这 清 幽 境 地 很 合 我 的 雅 兴 ， 足 可 以 把 身 心 和 耳 目 荡 涤 。,generated:,"及 兹 契 幽 绝 ， 自 足 荡 心 耳 。
+"
+959,modern2poem: 重 崖 叠 嶂 耸 云 霄 莽 莽 苍 苍 。,generated:,"回 崖 沓 嶂 凌 苍 苍 。
+"
+960,modern2poem: 羯 胡 人 狡 诈 事 主 终 究 不 可 靠 ， 伤 时 感 世 的 诗 人 至 今 未 回 还 。,generated:,"羯 胡 事 主 终 无 赖 ， 词 客 哀 时 且 未 还 。
+"
+961,modern2poem: 客 人 说 为 了 上 山 砍 伐 树 木 来 买 斧 头 。,generated:,"采 山 因 买 斧 。
+"
+962,modern2poem: 任 凭 长 年 雨 打 日 晒 野 火 焚 烧 ，,generated:,"雨 淋 日 灸 野 火 燎 ，
+"
+963,modern2poem: 半 山 腰 喷 泄 云 雾 迷 迷 茫 茫 ，,generated:,"喷 云 泄 雾 藏 半 腹 ，
+"
+964,modern2poem: 即 使 桃 花 潭 水 有 一 千 尺 那 么 深 ， 也 不 及 汪 伦 送 别 我 的 一 片 情 深 。,generated:,"桃 花 潭 水 深 千 尺 ， 不 及 汪 伦 送 我 情 。
+"
+965,modern2poem: 轮 台 城 北 旄 头 星 正 降 落 。,generated:,"轮 台 城 北 旄 头 落 。
+"
+966,modern2poem: 回 来 一 看 池 苑 的 地 方 依 旧 ，,generated:,"归 来 池 苑 皆 依 旧 ，
+"
+967,modern2poem: 在 杨 花 落 完 ， 子 规 啼 鸣 的 时 候 ， 听 说 你 路 过 五 溪 。,generated:,"杨 花 落 尽 子 规 啼 ， 闻 道 龙 标 过 五 溪 。
+"
+968,modern2poem: 直 到 如 今 想 起 来 ， 仍 叫 人 心 惊 胆 颤 ， 有 人 神 魂 尚 未 招 回 ， 依 然 诚 恐 诚 惶 。,generated:,"至 今 残 破 胆 ， 应 有 未 招 魂 。
+"
+969,modern2poem: 岂 止 南 国 地 气 和 暖 ，,generated:,"岂 伊 地 气 暖 ？
+"
+970,modern2poem: 自 从 和 老 友 在 江 海 分 别 ，,generated:,"故 人 江 海 别 ，
+"
+971,modern2poem: 急 风 胡 乱 地 掀 动 水 中 的 荷 花 ， 密 雨 斜 打 在 长 满 薜 荔 的 墙 上 。,generated:,"惊 风 乱 飐 芙 蓉 水 ， 密 雨 斜 侵 薜 荔 墙 。
+"
+972,modern2poem: 一 年 俸 禄 有 三 百 石 ，,generated:,"吏 禄 三 百 石 ，
+"
+973,modern2poem: 织 锦 回 文 诉 说 思 念 的 长 恨 ，,generated:,"机 中 锦 字 论 长 恨 ，
+"
+974,modern2poem: 癫 病 患 者 夜 生 子 ，,generated:,"厉 夜 生 子 ，
+"
+975,modern2poem: 吐 蕃 族 至 今 牧 马 只 敢 远 望 ， 他 们 再 不 敢 南 来 越 过 临 洮 。,generated:,"至 今 窥 牧 马 ， 不 敢 过 临 洮 。
+"
+976,modern2poem: 江 流 波 涛 九 道 如 雪 山 奔 淌 。,generated:,"白 波 九 道 流 雪 山 。
+"
+977,modern2poem: 独 立 天 边 不 禁 热 泪 横 流 。,generated:,"天 畔 独 潸 然 。
+"
+978,modern2poem: 其 后 为 臣 宾 于 虞 ， 历 世 不 绝 显 荣 光 。,generated:,"邈 焉 虞 宾 ， 历 世 重 光 。
+"
+979,modern2poem: 我 的 郎 恭 谨 等 候 在 影 壁 前 ，,generated:,"俟 我 于 著 乎 而 ，
+"
+980,modern2poem: 啼 鸟 悲 鸣 ， 傍 晚 随 着 东 风 声 声 传 来 ； 落 花 纷 纷 ， 恰 似 那 为 石 崇 坠 楼 的 绿 珠 美 人 。,generated:,"日 暮 东 风 怨 啼 鸟 ， 落 花 犹 似 坠 楼 人 。
+"
+981,modern2poem: 说 回 家 了 回 家 了 ， 又 到 了 十 月 小 阳 春 。,generated:,"曰 归 曰 归 ， 岁 亦 阳 止 。
+"
+982,modern2poem: 问 客 人 为 什 么 来 ， 客 人 说 为 了 上 山 砍 伐 树 木 来 买 斧 头 。,generated:,"问 客 何 为 来 ， 采 山 因 买 斧 。
+"
+983,modern2poem: 今 晚 是 怎 样 的 晚 上 啊 河 中 漫 游 。,generated:,"今 夕 何 夕 兮 ， 搴 舟 中 流 。
+"
+984,modern2poem: 庭 院 内 没 有 那 尘 杂 干 扰 ， 静 室 里 有 的 是 安 适 悠 闲 。,generated:,"户 庭 无 尘 杂 ， 虚 室 有 余 闲 。
+"
+985,modern2poem: 我 把 我 忧 愁 的 心 思 寄 托 给 明 月 ，,generated:,"我 寄 愁 心 与 明 月 ，
+"
+986,modern2poem: 静 室 里 有 的 是 安 适 悠 闲 。,generated:,"虚 室 有 余 闲 。
+"
+987,modern2poem: 最 终 已 经 坎 坷 穷 愁 纠 缠 其 身 了 。,generated:,"终 日 坎 壈 缠 其 身 。
+"
