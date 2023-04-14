@@ -21,16 +21,17 @@ import pandas as pd
 from sklearn.metrics import classification_report
 from torch.utils.data import DataLoader, Dataset
 from tqdm import tqdm
-from transformers import (AdamW, T5Config, T5Tokenizer,
+from transformers import (AdamW, BartTokenizer, BartForConditionalGeneration,
                           MT5ForConditionalGeneration)
+from transformers import AutoTokenizer, AutoModelForMaskedLM
 os.environ["CUDA_VISIBLE_DEVICES"] = '0'
 
 
-max_length = 120
-batch_size = 32
+max_length = 512
+batch_size = 4
 global_lr = 3e-4
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
-
+epoch = 100
 seed = 42
 
 
@@ -49,8 +50,9 @@ setup_seed(seed)
 # mt5_base_path = 'google/mt5-base'
 
 
-tokenizer = T5Tokenizer.from_pretrained("K024/mt5-zh-ja-en-trimmed")
-model = MT5ForConditionalGeneration.from_pretrained("K024/mt5-zh-ja-en-trimmed")
+tokenizer = AutoTokenizer.from_pretrained("hfl/cino-base-v2")
+
+model = AutoModelForMaskedLM.from_pretrained("hfl/cino-base-v2")
 
 
 class T5Dataset(Dataset):
@@ -60,12 +62,18 @@ class T5Dataset(Dataset):
         self.targets = targets
 
     def __getitem__(self, index):
+        # add_prefix = 'modern2poem: '
+        # ex1 ="modern: 你难道没有看见吗？那年迈的父母对着明镜悲叹那一头的白发，早晨还是青丝到了傍晚却变得如雪一般 \
+        #     。poem: 君不见，高堂明镜悲白发，朝如青丝暮成雪。"
+        # ex2 ="modern:  汉 军 声 势 迅 猛 如 惊 雷 霹 雳 ， 虏 骑 互 相 践 踏 是 怕 遇 蒺 藜 。poem: 汉 兵 奋 迅 如 霹 雳 ， 虏 骑 崩 腾 畏 蒺 藜 。".replace(' ', '')
+        # # ex3 ="modern:  您 没 听 说 汉 家 华 山 以 东 两 百 州 ， 百 千 村 落 长 满 了 草 木 。poem: 君 不 闻 汉 家 山 东 二 百 州 ， 千 村 万 落 生 荆 杞 。"
+
+        # add_prefix = 'translate modern into poem. '+ex1+ex2+'modern:'
+
+        # return (add_prefix+self.texts[index].strip()+"poem:", self.targets[index])
         add_prefix = 'modern2poem: '
-        print(add_prefix+self.texts[index].strip())
-        print(self.targets[index])
-        print(len(self.texts))
-        print(index)
-        return (add_prefix+self.texts[index].strip(), self.targets[index])
+        # return (add_prefix+self.texts[index].strip(), self.targets[index])
+        return [add_prefix+self.texts[index].strip(), self.targets[index]]
 
     def __len__(self):
         return len(self.texts)
@@ -84,6 +92,8 @@ class Trainer():
         report_loss = 0
         self.model.train()
         for (text, target) in tqdm(train_dataloader, position=0, leave=True):
+            text = list(text)
+            target = list(target)
             input = tokenizer(text, padding='max_length', truncation=True,
                               max_length=max_length, return_tensors='pt')
             input_ids = input['input_ids'].to(device)
@@ -107,6 +117,8 @@ class Trainer():
         gold_sequences = []
         input_sequences = []
         for (text, target) in tqdm(test_dataloader, position=0, leave=True):
+            text = list(text)
+            target = list(target)
             input = tokenizer(text, padding='max_length', truncation=True,
                               max_length=max_length, return_tensors='pt')
             input_ids = input['input_ids'].to(device)
@@ -142,8 +154,8 @@ if __name__ == '__main__':
 
     train_src = open(modern_train_data,'r', encoding="utf-8").readlines()[:10]
     train_tgt = open(poem_train_data,'r', encoding="utf-8").readlines()[:10]
-    test_src = open(modern_test_data,'r', encoding="utf-8").readlines()[10:]
-    test_tgt = open(poem_test_data,'r', encoding="utf-8").readlines()[10:]
+    test_src = open(modern_test_data,'r', encoding="utf-8").readlines()[10:30]
+    test_tgt = open(poem_test_data,'r', encoding="utf-8").readlines()[10:30]
 
     train_dataset = T5Dataset(train_src, train_tgt)
     # valid_dataset = T5Dataset(valid_texts,valid_cues,valid_labels)
@@ -155,7 +167,8 @@ if __name__ == '__main__':
         test_dataset, 2, num_workers=0, shuffle=False, drop_last=True)
 
     trainer = Trainer()
-    for e in range(0, 50):
+    for e in range(0, epoch):
+        print(f"Epoch:{e+1}")
         trainer.train(train_dataloader)
         # torch.save(model.state_dict(), './ft_save_model.pt')
         trainer.test(test_dataloader, e)
